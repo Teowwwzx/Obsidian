@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "44b0a35ee80be269",
+    "type": "split",
+    "children": [
+      {
+        "id": "59507cac2b11a117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12db4e1ffe67627a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4dc5bc934fe8a24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "41bf1b3a4462276f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84bfb7bc7351ccd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2638f6f83812d70b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cbdc2cf92b14d720",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e941411492fc1951",
+    "type": "split",
+    "children": [
+      {
+        "id": "2df65c389ec548a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f5c62fc573aa83f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git 2"
+            }
+          },
+          {
+            "id": "596e91a5b44f3274",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Git 2"
+            }
+          },
+          {
+            "id": "8a5bc58e9bb91acd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "054dec4265f82d13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "84bfb7bc7351ccd2",
+  "lastOpenFiles": [
+    "Serialization & Deserialization/Serialization & Deserialization 2.md",
+    "Serialization & Deserialization/Serialization & Deserialization 1.md",
+    "Untitled.canvas",
+    "Goals.md",
+    "Untitled.md",
+    "Serialization & Deserialization",
+    "Docker/Untitled.md",
+    "Docker/Multi Stage.md",
+    "Celery/Note.md",
+    "Celery",
+    "Git/Git 2.md",
+    "3.md",
+    "Docker/1.md",
+    "Redis",
+    "Docker/2.md",
+    "Git/Git 1.md",
+    "Docker",
+    "Git",
+    "Welcome.md"
+  ]
+}
