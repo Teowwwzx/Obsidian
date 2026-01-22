@@ -1,3 +1,5 @@
+This is a dual project devel
+
 ### 三、 ATAS 2.0 冲刺清单（已完成 Docker & Redis）
 
 #### ✅ 第一阶段：地基（已完成）
