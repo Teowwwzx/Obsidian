@@ -4,7 +4,7 @@ Programming
 Python
 
 Java
-- OOP
+- [[OOP]]
 - Framework
 	- Spring
 	- It's a massive ecosystem instead a single tool
@@ -39,6 +39,9 @@ Database
 Third Party
 
 Testing
+- Test-Driven Development (TTD): Write test code first, then functional code
+Python
+- Pytest
 Java
 - JUnit
 
