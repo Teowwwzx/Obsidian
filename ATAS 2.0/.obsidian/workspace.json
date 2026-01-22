@@ -227,12 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94e782b90f53893e",
+  "active": "84bfb7bc7351ccd2",
   "lastOpenFiles": [
+    "System Design",
+    "DevOps & CICD/SSH",
     "Interview Questions.md",
     "Cheklist.md",
     "Big Tech Checklist.md",
-    "Docker/Untitled.md",
+    "DevOps & CICD/Docker/Untitled.md",
     "Concepts & Methodologies/Defensive Programming.md",
     "Concepts & Methodologies/Pair Programming.md",
     "Concepts & Methodologies/Extreme Programming (XP) Principles.md",
@@ -240,7 +242,6 @@
     "DevOps & CICD/Artifactory.md",
     "Concepts & Methodologies",
     "DevOps & CICD/Jenkins.md",
-    "DevOps & CICD/Untitled",
     "Testing & Performance Tools/E2E Testing/Cypress (JS & TS).md",
     "Testing & Performance Tools/Unit Testing/Jest (JS).md",
     "Testing & Performance Tools/Unit Testing/JUnit (Java).md",
@@ -257,14 +258,13 @@
     "Untitled.base",
     "Java/OOP.md",
     "Secret.base",
-    "Queue/Untitled.md",
-    "Queue",
-    "Serialization & Deserialization/Serialization & Deserialization 2.md",
-    "Serialization & Deserialization/Serialization & Deserialization 1.md",
+    "System Design/Queue/Untitled.md",
+    "System Design/Queue",
+    "Java/Serialization & Deserialization/Serialization & Deserialization 2.md",
+    "Java/Serialization & Deserialization/Serialization & Deserialization 1.md",
     "Untitled.canvas",
-    "Docker/Multi Stage.md",
-    "Celery/Note.md",
-    "Git/Git 2.md",
-    "3.md"
+    "DevOps & CICD/Docker/Multi Stage.md",
+    "System Design/Celery/Note.md",
+    "DevOps & CICD/Git/Git 2.md"
   ]
 }
