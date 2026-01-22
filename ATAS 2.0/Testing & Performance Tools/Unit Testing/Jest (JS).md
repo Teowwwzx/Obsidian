@@ -1,0 +1,1 @@
+Small pieces of logic in your Next.js or React code.

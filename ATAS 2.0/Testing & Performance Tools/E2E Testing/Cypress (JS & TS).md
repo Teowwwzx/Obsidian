@@ -1,0 +1,1 @@
+It opens a real browser and "clicks" buttons like a real user to see if the whole site works.
