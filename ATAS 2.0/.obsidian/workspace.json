@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts & Methodologies/ES6 (ECMAScript 2015).md",
+                "file": "00-Methodologies-Standards/Standards/ES6 (ECMAScript 2015).md",
                 "mode": "source",
                 "source": false
               },
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheklist.md",
+                "file": "01-System-Design/Architecture-Patterns/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheklist"
+              "title": "Untitled"
             }
           }
         ],
@@ -227,18 +227,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84bfb7bc7351ccd2",
+  "active": "94e782b90f53893e",
   "lastOpenFiles": [
+    "01-System-Design/Architecture-Patterns/Microservices.md",
+    "01-System-Design/Architecture-Patterns/Untitled.md",
+    "01-System-Design/Caching Strategy/Redis.md",
+    "01-System-Design/Architecture-Patterns",
+    "01-System-Design/Messaging-Queues/Celery (Python).md",
+    "01-System-Design/Caching Strategy",
+    "01-System-Design/Messaging-Queues/RabbitMQ.md",
+    "01-System-Design/Messaging-Queues/Kafka.md",
+    "01-System-Design/Celery/Note.md",
+    "01-System-Design/Queue/Untitled.md",
+    "00-Methodologies-Standards/Standards/ISO20022 (Fintech Standard).md",
+    "01-System-Design/Messaging-Queues",
+    "00-Methodologies-Standards/Methodologies/Defensive Programming.md",
+    "00-Methodologies-Standards/Methodologies/Extreme Programming (XP) Principles.md",
+    "00-Methodologies-Standards/Methodologies/Pair Programming.md",
+    "00-Methodologies-Standards/Standards/ES6 (ECMAScript 2015).md",
+    "00-Methodologies-Standards/Standards",
+    "00-Methodologies-Standards/Methodologies",
+    "Cheklist.md",
+    "00-Methodologies-Standards",
     "01-System-Design",
     "05-DevOps-CICD/SSH",
     "Interview Questions.md",
-    "Cheklist.md",
     "Big Tech Checklist.md",
     "05-DevOps-CICD/Docker/Untitled.md",
-    "Concepts & Methodologies/Defensive Programming.md",
-    "Concepts & Methodologies/Pair Programming.md",
-    "Concepts & Methodologies/Extreme Programming (XP) Principles.md",
-    "Concepts & Methodologies/ES6 (ECMAScript 2015).md",
     "05-DevOps-CICD/Artifactory.md",
     "Concepts & Methodologies",
     "05-DevOps-CICD/Jenkins.md",
@@ -248,23 +263,8 @@
     "Testing & Performance Tools/Load Testing/Locust.md",
     "Testing & Performance Tools/Load Testing/JMeter (Java-based).md",
     "Testing & Performance Tools/E2E Testing",
-    "Testing & Performance Tools/Load Testing",
     "Testing & Performance Tools/Untitled.md",
-    "Testing & Performance Tools/Unit Testing",
-    "Testing & Performance Tools",
     "02-Java/Spring Boot.md",
-    "05-DevOps-CICD",
-    "Tech Stack - Big Company Standard.md",
-    "Untitled.base",
-    "02-Java/OOP.md",
-    "Secret.base",
-    "01-System-Design/Queue/Untitled.md",
-    "01-System-Design/Queue",
-    "02-Java/Serialization & Deserialization/Serialization & Deserialization 2.md",
-    "02-Java/Serialization & Deserialization/Serialization & Deserialization 1.md",
-    "Untitled.canvas",
-    "05-DevOps-CICD/Docker/Multi Stage.md",
-    "01-System-Design/Celery/Note.md",
-    "05-DevOps-CICD/Git/Git 2.md"
+    "Untitled.canvas"
   ]
 }
