@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "Tech Stack - Big Company Standard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "Tech Stack - Big Company Standard"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Stack - Big Company Standard.md",
+                "file": "Java/OOP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Stack - Big Company Standard"
+              "title": "OOP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,14 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a686af7aa942cf8",
+  "active": "467e913950d8fb4b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Goals.md",
     "Java/OOP.md",
     "Tech Stack - Big Company Standard.md",
-    "Untitled.md",
     "Queue/Untitled.md",
     "Queue",
-    "Goals.md",
     "Java",
     "Serialization & Deserialization/Serialization & Deserialization 2.md",
     "Serialization & Deserialization/Serialization & Deserialization 1.md",

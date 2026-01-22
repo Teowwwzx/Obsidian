@@ -3,9 +3,22 @@ System Design
 	- Java
 		- Spring Cloud
 - Caching
-	- Redis
-		- Stoc
+	- Redis (Hit Rate, Cache Miss)
+	- Stock price data in every second are stored in Redis instead of write the db
 		- Ehcache, Caffeine
+- Messaging
+	- Python
+		- Celery + Worker
+	- Java
+		- Apache Kafka
+		- RabbitMQ, Active MQ
+- Database
+	- RDBMS: PostgreSQL, Oracle, MySQL
+		- Store Money, Order (Why?)
+	- Object Storage: AWS S3, Azure Blob, Cloudinary
+		- Suitable for Image, PDF (Why?)
+	- NoSQL: MongoDB, Cassandra
+		- Un-structure data: comments
 
 Programming
 - Why Big Company like to use Java?

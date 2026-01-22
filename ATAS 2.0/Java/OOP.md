@@ -1,6 +1,8 @@
+4 Pillar:
 Encapsulation
+Inheritance
+Polymorphism
 Abstraction
-Polymohipsm
 
 Private
 Static Method
