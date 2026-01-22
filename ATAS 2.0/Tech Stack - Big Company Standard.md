@@ -19,6 +19,14 @@ System Design
 		- Suitable for Image, PDF (Why?)
 	- NoSQL: MongoDB, Cassandra
 		- Un-structure data: comments
+	- Common Types:
+		- Arrays
+		- Linked List
+		- Stacks
+		- Queues
+		- HashMaps (Dictionaries)
+		- Trees
+		- Big I Notation?
 
 Programming
 - Why Big Company like to use Java?

@@ -1,7 +1,3 @@
-### 4. 还有什么大厂代码标准？(The Big Tech Checklist)
-
-除了上面说的，如果你想进 Google/Bybit，你的代码还需要具备以下特质：
-
 #### A. 依赖注入 (Dependency Injection)
 
 - **做法：** 永远不要在函数内部手动创建 `db = SessionLocal()`。
