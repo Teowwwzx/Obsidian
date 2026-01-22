@@ -5,6 +5,13 @@ Python
 
 Java
 - OOP
+- Framework
+	- Spring
+	- It's a massive ecosystem instead a single tool
+	- ICO (Inversion of Control - 控制反转)
+	- AOP (Aspect Oriented Programming - 切面编程)
+		- A lot of 函数 required logged. Instead of writing logger.info() in each 函数, why not just write a 切面 to make it execute before the 函数 is running.
+		- This is excellent while dealing which bank transactional
 
 
 Database
@@ -26,7 +33,7 @@ Database
 	- Main Framework in Python
 		- SQLAlchemy
 		- user.save() -> INSERT INTO users ...
-	- N+1 查询问题（性能杀手）
+	- ==N+1 查询问题（性能杀手）==
 
 Third Party
 
