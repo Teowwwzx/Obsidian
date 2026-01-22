@@ -1,3 +1,12 @@
+System Design
+- Distributed Application
+	- Java
+		- Spring Cloud
+- Caching
+	- Redis
+		- Stoc
+		- Ehcache, Caffeine
+
 Programming
 - Why Big Company like to use Java?
 
