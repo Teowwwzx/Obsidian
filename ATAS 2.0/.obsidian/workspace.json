@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing & Performance Tools/Load Testing/Locust.md",
+                "file": "06-Reliability-Quality/Performance/Locust.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-DevOps-CICD/Automation/Untitled.md",
+                "file": "Cheklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Cheklist"
             }
           }
         ],
@@ -229,8 +229,34 @@
   },
   "active": "94e782b90f53893e",
   "lastOpenFiles": [
+    "Tech Stack - Big Company Standard.md",
+    "Cheklist.md",
+    "Interview Intelligence/Question Bank/Interview Questions.md",
+    "Big Tech Checklist.md",
+    "07-Fintech Domain/Security/Encryption at rest-transit (Banking).md",
+    "Interview Intelligence/Question Bank",
+    "Interview Intelligence",
+    "07-Fintech Domain/Security/JWT.md",
+    "07-Fintech Domain/Security/OAuth2.md",
+    "07-Fintech Domain/Finance Math/Business Valuation.md",
+    "07-Fintech Domain/Security",
+    "07-Fintech Domain/Payments/Double-entry bookkeeping.md",
+    "07-Fintech Domain/Finance Math",
+    "07-Fintech Domain/Payments/Ledger Systems.md",
+    "07-Fintech Domain/Payments/Transaction Lifecycle.md",
+    "07-Fintech Domain/Payments",
+    "07-Fintech Domain/Finance Math/TVM.md",
+    "06-Reliability-Quality/Observability/Prometheus-Grafana (Monitoring).md",
+    "07-Fintech Domain",
+    "06-Reliability-Quality/Observability/ELK Stack (logging).md",
+    "05-DevOps-CICD/Git/Git 1.md",
+    "06-Reliability-Quality/Testing",
+    "05-DevOps-CICD/Deployment/Linux Server Hardening.md",
+    "05-DevOps-CICD/Deployment/SSL-TLS.md",
+    "05-DevOps-CICD/Deployment/NGINX Config.md",
+    "05-DevOps-CICD/Automation/GitHub Actions.md",
+    "05-DevOps-CICD/Deployment",
     "05-DevOps-CICD/Containerization/Docker.md",
-    "05-DevOps-CICD/Automation/Untitled.md",
     "05-DevOps-CICD/Automation",
     "05-DevOps-CICD/Automation.md",
     "05-DevOps-CICD/Containerization/Multi Stage.md",
@@ -238,33 +264,7 @@
     "05-DevOps-CICD/Artifactory.md",
     "05-DevOps-CICD/Docker/Multi Stage.md",
     "04-Database-Data-Strategy/Performance.md",
-    "04-Database-Data-Strategy/ORM.md",
-    "04-Database-Data-Strategy/RDBMS.md",
     "04-Database-Data-Strategy/Untitled",
-    "02-Backend (Java)/String Ecosystem/AOP.md",
-    "04-Database-Data-Strategy/RDBMS/ACID.md",
-    "04-Database-Data-Strategy/RDBMS",
-    "04-Database-Data-Strategy",
-    "02-2-Backend (Python)",
-    "02-Backend (Java)/String Ecosystem/IoC & DI.md",
-    "02-Backend (Java)/Fundamentals/OOP.md",
-    "02-Backend (Java)/String Ecosystem",
-    "01-System-Design/Architecture-Patterns/Event-Driven Architecture (EDA).md",
-    "01-System-Design/Architecture-Patterns/Load Balancing (Nginx).md",
-    "01-System-Design/Architecture-Patterns/Microservices.md",
-    "01-System-Design/Caching Strategy/Redis.md",
-    "01-System-Design/Architecture-Patterns",
-    "01-System-Design/Messaging-Queues/Celery (Python).md",
-    "01-System-Design/Caching Strategy",
-    "01-System-Design/Messaging-Queues/RabbitMQ.md",
-    "01-System-Design/Messaging-Queues/Kafka.md",
-    "01-System-Design/Celery/Note.md",
-    "01-System-Design/Queue/Untitled.md",
-    "00-Methodologies-Standards/Standards/ISO20022 (Fintech Standard).md",
-    "01-System-Design/Messaging-Queues",
-    "00-Methodologies-Standards/Methodologies/Defensive Programming.md",
-    "00-Methodologies-Standards/Methodologies/Extreme Programming (XP) Principles.md",
-    "00-Methodologies-Standards/Standards",
     "Untitled.canvas"
   ]
 }
