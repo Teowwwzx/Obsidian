@@ -1,6 +1,7 @@
 This is a dual project development:
 1. atas-pro is a professional platform to reduce tedious connection process like cold email and messy & unprofessional flow between student and industry expert which both act as demand and supply. This project modified from a FYP MPV to a highly performance & scalable platform.
 2. atas-link is a community platform to replace "rednote" with a more niche pathway especially for university student. Whoever to manage the traffic is the key to turn into profit. Our idea is professional tool as a entry point and attracted student to sign in an account for the community platform for more exciting uni life & discussion around them. This is a whole new project and located in a monorepo with atas-pro which easy to manage and this project implement more advance technique like websocket, redis, queue. algorithm and so on which is a basic of a community.
+Both project shared a same docker-compose but seperate postgres, redis, worker and each backend contain a Dockerfile for efficient packaging the project environment. Also, the git sparse-checkout are used by both project to hide another project file to avoid confusion.
 
 ### 三、 ATAS 2.0 冲刺清单（已完成 Docker & Redis）
 
