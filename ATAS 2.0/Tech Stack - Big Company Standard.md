@@ -9,6 +9,7 @@ Java
 	- Spring
 	- It's a massive ecosystem instead a single tool
 	- ICO (Inversion of Control - 控制反转)
+		- Before have to create "new" for an object manually (new UserService()). In Spring, it will insert an object for you and this is called Dependency Injection（依赖注入）
 	- AOP (Aspect Oriented Programming - 切面编程)
 		- A lot of 函数 required logged. Instead of writing logger.info() in each 函数, why not just write a 切面 to make it execute before the 函数 is running.
 		- This is excellent while dealing which bank transactional
@@ -36,6 +37,10 @@ Database
 	- ==N+1 查询问题（性能杀手）==
 
 Third Party
+
+Testing
+Java
+- JUnit
 
 
 Standard
