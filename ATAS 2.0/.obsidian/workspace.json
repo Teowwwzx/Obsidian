@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheklist.md",
+                "file": "Tech Stack - Big Company Standard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheklist"
+              "title": "Tech Stack - Big Company Standard"
+            }
+          },
+          {
+            "id": "2a313563a5a9c5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Undiscover Big Company Tech.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Undiscover Big Company Tech"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,9 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fc90fbc9d9c23fa",
+  "active": "2a313563a5a9c5d2",
   "lastOpenFiles": [
     "Tech Stack - Big Company Standard.md",
+    "Undiscover Big Company Tech.md",
     "Cheklist.md",
     "00-Methodologies-Standards/Phylosophy.md",
     "01-System-Design/Architecture-Patterns/Event-Driven Architecture (EDA).md",
@@ -206,7 +222,6 @@
     "05-DevOps-CICD/Automation.md",
     "05-DevOps-CICD/Containerization/Multi Stage.md",
     "05-DevOps-CICD/Automation/Jenkins.md",
-    "05-DevOps-CICD/Artifactory.md",
     "04-Database-Data-Strategy/Untitled",
     "Untitled.canvas"
   ]
