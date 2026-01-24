@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Undiscover Big Company Tech.md",
+                "file": "04-Database-Data-Strategy/SQL JOINS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Undiscover Big Company Tech"
+              "title": "SQL JOINS"
             }
           }
         ],
@@ -187,8 +187,10 @@
   },
   "active": "2a313563a5a9c5d2",
   "lastOpenFiles": [
-    "Tech Stack - Big Company Standard.md",
+    "Pasted image 20260124135804.png",
     "Undiscover Big Company Tech.md",
+    "04-Database-Data-Strategy/SQL JOINS.md",
+    "Tech Stack - Big Company Standard.md",
     "Cheklist.md",
     "00-Methodologies-Standards/Phylosophy.md",
     "01-System-Design/Architecture-Patterns/Event-Driven Architecture (EDA).md",
@@ -220,8 +222,6 @@
     "05-DevOps-CICD/Containerization/Docker.md",
     "05-DevOps-CICD/Automation",
     "05-DevOps-CICD/Automation.md",
-    "05-DevOps-CICD/Containerization/Multi Stage.md",
-    "05-DevOps-CICD/Automation/Jenkins.md",
     "04-Database-Data-Strategy/Untitled",
     "Untitled.canvas"
   ]
