@@ -2,3 +2,4 @@
 2. Eviction
 3. Miss Cache
 4. Atomicity
+5. AsyncRedisManager

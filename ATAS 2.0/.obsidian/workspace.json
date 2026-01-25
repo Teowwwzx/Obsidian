@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-DevOps-CICD/The Big Tech Deployment Lifecycle Explained.md",
+                "file": "01-System-Design/Caching Strategy/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Big Tech Deployment Lifecycle Explained"
+              "title": "Redis"
             }
           }
         ],
@@ -187,8 +187,8 @@
   },
   "active": "2a313563a5a9c5d2",
   "lastOpenFiles": [
-    "04-Database-Data-Strategy/Alembic Cheetsheet.md",
     "05-DevOps-CICD/The Big Tech Deployment Lifecycle Explained.md",
+    "04-Database-Data-Strategy/Alembic Cheetsheet.md",
     "04-Database-Data-Strategy/SQL JOINS.md",
     "Pasted image 20260124135804.png",
     "Undiscover Big Company Tech.md",
