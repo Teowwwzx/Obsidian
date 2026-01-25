@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Stack - Big Company Standard.md",
+                "file": "ATAS-Pro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Stack - Big Company Standard"
+              "title": "ATAS-Pro"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "8fc90fbc9d9c23fa",
   "lastOpenFiles": [
+    "Pasted image 20260125175111.png",
+    "Undiscover Big Company Tech.md",
+    "Tech Stack - Big Company Standard.md",
     "ATAS-Pro.md",
     "Cheklist.md",
-    "Tech Stack - Big Company Standard.md",
-    "Undiscover Big Company Tech.md",
     "Pasted image 20260125173453.png",
     "Pasted image 20260124135804.png",
     "06-Reliability-Quality/Observability/Prometheus-Grafana (Monitoring).md",
@@ -206,7 +207,6 @@
     "06-Reliability-Quality/Testing",
     "05-DevOps-CICD/Deployment/Linux Server Hardening.md",
     "05-DevOps-CICD/Deployment/SSL-TLS.md",
-    "05-DevOps-CICD/Deployment/NGINX Config.md",
     "05-DevOps-CICD/Deployment",
     "05-DevOps-CICD/Automation",
     "04-Database-Data-Strategy/Untitled",
