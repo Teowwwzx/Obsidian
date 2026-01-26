@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATAS-Pro.md",
+                "file": "04-Database-Data-Strategy/Cassandra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATAS-Pro"
+              "title": "Cassandra"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "8fc90fbc9d9c23fa",
   "lastOpenFiles": [
+    "ATAS-Pro.md",
+    "04-Database-Data-Strategy/Cassandra.md",
     "Pasted image 20260125175111.png",
     "Undiscover Big Company Tech.md",
     "Tech Stack - Big Company Standard.md",
-    "ATAS-Pro.md",
     "Cheklist.md",
     "Pasted image 20260125173453.png",
     "Pasted image 20260124135804.png",
