@@ -204,17 +204,18 @@ It handles thing like configurations and service discovery in big systems.
 ## String
 - Why need stringbuilder?
 ## Int
-- 32 bits
+- 32 bits (4 byte)
 - Max cover 21 billions
-## long
-- Primitive type 基础类型。Just like a pure number that stored in RAM, fast performance but can't be **null.**
-- 64 bits (8 byte)
-- Covered from -9,223,372,036,854,775,808 until 9,223,372,036,854,775,807 的数字
+## long - 64 bits (8 byte)
+- Primitive type 基础类型。Pure number stored in RAM, fast performance but can't be **null.**
+- Covered from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 - **Pros:**
-	- **Optimized memory:** An uuid might took 36 bits
+	- **Optimized memory
 	- **Ordering:** number is ascending (1,2,3..). This is good **[[B-Tree 索引]]** in database.
 - **Cons:**
-	- **Ordering exposure in URL:** Used it with uuid
+	- **Ordering exposure in URL**
+- **When to use:**
+	- High performance calculation inside a method or a loop. It stored in RAM [[Stack]] instead of [[Heap]].
 
 ## Long
 - Wrapped Object 包装类对象。It's a real object.
