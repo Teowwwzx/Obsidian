@@ -169,9 +169,26 @@ public class UserService {
 ```
 
 
+### 4.1.1 Where is the logic for `UserRepository`? (The "Magic" Part)
+
+In Java, you don't write the SQL or the logic to find a user by ID. You just define an **Interface**. Spring Data JPA then creates the implementation for you.
+
+```
+// ----------------------
+// THE REPOSITORY LAYER
+// ----------------------
+// This is an Interface, not a Class. 
+// Extending JpaRepository gives you findById, save, delete for FREE.
+public interface UserRepository extends JpaRepository<UserEntity, Long> {
+    // You don't need to write any code here! 
+    // Spring "auto-generates" the SQL logic in the background.
+}
+````
 
 
+### 4.1.2. The Complete Service Code
 
+The `@Autowired` annotation tells Spring: "I need an object that implements the `UserRepository` interface. Go find the one you generated and plug it in here".
 
 ---
 
