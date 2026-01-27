@@ -94,6 +94,69 @@ If your system handles 1,000 users at the same time:
 - Because Python's memory management for 1,000 heavy objects can be expensive, developers often use **[[Serialization]]** to turn those objects into simple strings or dictionaries to save space.
 
 
+### 4.1 The "Entity" (The Warehouse / Live Object)
+This is your **SQLAlchemy-equivalent** in Java. It is "heavy," connected to the database, and contains sensitive info like password hashes.
+
+```
+// This represents the actual table in your Database
+@Entity 
+public class UserEntity { 
+	private Long id;
+	private String username;
+	private String email;
+	private String passwordHash; // ❌ SENSITIVE: Should never leave the server
+	
+	// Getters and Setters... 
+}
+```
+
+### 4.2 The "DTO" (The Packaging Box / Clean Object)
+This is your **Pydantic-equivalent**. It is a simple, "dead" container designed only for the "courier" to carry to the frontend.
+
+```
+// This is the "Clean" version for the User/API 
+public class UserResponseDTO { 
+	private String username;
+	private String email; // Notice: NO passwordHash here. The "box" is safe.
+
+	public UserResponseDTO(String username, String email) { 
+		this.username = username;
+		this.email = email; 
+	} 
+}
+```
+
+
+### 4.3 The "Service" (Moving data between containers)
+The Service layer acts as the **packer.** It takes the heavy object from the Warehouse and puts the "clean" parts into the shipping box.
+
+```
+@Service
+public class UserService {
+    @Autowired
+    private UserRepository userRepository;
+
+    public UserResponseDTO getUserProfile(Long id) {
+        // 1. Get the "Heavy" Entity from Database
+        UserEntity user = userRepository.findById(id); 
+
+        // 2. "Move" data to the Clean DTO (The Decoupling Step)
+        // We only take what we need. The password stays in the Entity.
+        UserResponseDTO cleanBox = new UserResponseDTO(
+            user.getUsername(), 
+            user.getEmail()
+        );
+
+        return cleanBox; // Send the clean box to the Controller
+    }
+}
+```
+
+
+
+
+
+
 ---
 
 ## Spring Cloud
