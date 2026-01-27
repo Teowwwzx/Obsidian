@@ -207,8 +207,7 @@ It handles thing like configurations and service discovery in big systems.
 - 32 bits (4 byte)
 - Max cover 21 billions
 ## long - 64 bits (8 byte)
-- Primitive type 基础类型。Pure number stored in RAM, fast performance but can't be **null.**
-- Covered from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
+Primitive type 基础类型。Pure number stored in RAM, fast performance but can't be **null.** It Covered from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 - **Pros:**
 	- **Optimized memory
 	- **Ordering:** number is ascending (1,2,3..). This is good **[[B-Tree 索引]]** in database.
@@ -218,8 +217,10 @@ It handles thing like configurations and service discovery in big systems.
 	- High performance calculation inside a method or a loop. It stored in RAM [[Stack]] instead of [[Heap]].
 
 ## Long
-- Wrapped Object 包装类对象。It's a real object.
-- Used for ID because an ID might be empty (null), only object type can present null. Primitive type like long with empty value, default is 0 which might cause logic error.
+Wrapped Object 包装类对象。It's a real object.
+- **When to use:** 
+	- **Nullability:** Creating new user, not yet stored in database. Now the program is `null` instead of `0`
+	- **Generics:** Java collection does not support primitive type like `List` or `Set`. You can't write `List<long>` 
 
 ## Set
 - Pro: To avoid duplicated data inside a set.
