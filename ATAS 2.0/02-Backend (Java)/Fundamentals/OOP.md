@@ -202,10 +202,13 @@ It handles thing like configurations and service discovery in big systems.
 ## Data Structure
 
 ## String
-- Why need stringbuilder?
+- **Immutability:** `str = "a" + "b" + "c"`, Java will create few String object temporarily which wasted RAM. 
+- **StringBuilder:** It turn to a dynamic draft which allow to modify original text without produce some garbage in RAM.
+
 ## Int
 - 32 bits (4 byte)
 - Max cover 21 billions
+
 ## long - 64 bits (8 byte)
 Primitive type 基础类型。Pure number stored in RAM, fast performance but can't be **null.** It Covered from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
 - **Pros:**
@@ -227,6 +230,7 @@ Wrapped Object 包装类对象。It's a real object.
 - noDuplicatedSet = {"a", "b"}
 ## BigDecimal
 - Pros: To avoid floating points issues like float
+- **When to use:** Price, balance, finance calculation
 ## HashDictionary
 - Key-pair value and the performance O(1)
 - Cons: More memory, no order when retrieved
