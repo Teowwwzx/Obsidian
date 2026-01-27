@@ -15,8 +15,12 @@ This method belongs to the Class, not an object instance.
 No need use the new keyword.
 Example: `Math.sqrt()` is a static method
 
-**Abstract**
+## **Abstract**
 
+## This
+In Java, we use `this` instead of `self`.
+It refers to **current object.**
+It help the code know you mean the "class variable", not a "local parameter."
 
 **Void** 
 Mean Empty, No return value
@@ -44,7 +48,10 @@ Why Java always need to create object like
 - new Obejct = object
 and this required more steps like called.self?
 
-Spring Cloud
+## Spring Cloud
+A set of tools for building **Microservices.**
+It helps different small programs talk to each other safely.
+It handles thing like configu
 
 
 String
