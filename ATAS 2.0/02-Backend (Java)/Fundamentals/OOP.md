@@ -64,7 +64,12 @@ Python is a **high-level, interpreted, and dynamically typed** language.
 - **Dynamically Typed:** Don't need declare variable types (like `int` or `string`). Python figures out the type at runtime.
 - **Everything is an Object:** In Python, even a simple number or a function is an object.
 
-
+## How Python Handles Memory Management?
+Python uses two main systems to manage memory: **Reference Counting** and **Garbage Collection**
+- **Reference Counting:** Every object in Python keeps track of how many other things are "pointing" to it.
+	- As soon as the count hits zero (meaning nothing is using it), Python immediately frees that memory.
+- **Garbage Collection (GC):** Python has a built-in "cleaner" that looks for "circular references" (where Object A points to B, and B points to A, but your program is not using these two Object). This GC finds these and deletes them.
+- **Memory Efficiency:** Python objects are considered "heavy" because they carry a lot of metadata (extra info about the object).
 
 ## Spring Cloud
 A set of tools for building **Microservices.**
