@@ -217,7 +217,8 @@ Int
 	- **Ordering exposure in URL:** Used it with uuid
 
 ## Long
-- Wrapped Object 包装类对象。It's a r
+- Wrapped Object 包装类对象。It's a real object.
+- Used for ID because an ID might be empty (null), only object type can present null. Primitive type like long with empty value, default is 0 which might cause logic error.
 
 
 
