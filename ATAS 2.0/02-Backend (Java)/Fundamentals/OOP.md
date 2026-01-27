@@ -71,6 +71,15 @@ Python uses two main systems to manage memory: **Reference Counting** and **Garb
 - **Garbage Collection (GC):** Python has a built-in "cleaner" that looks for "circular references" (where Object A points to B, and B points to A, but your program is not using these two Object). This GC finds these and deletes them.
 - **Memory Efficiency:** Python objects are considered "heavy" because they carry a lot of metadata (extra info about the object).
 
+### 3. The 1k Users Scenario: Java vs. Python
+If your system handles 1,000 users at the same time:
+
+**Java's Background:** Yes, Java will run **1,000 instances** of the `User` object on the [[Heap memory]].
+- Java uses a [[Thread Pool]]. Each "Request" (user) is usually handled by a thread, and that thread creates the objects it needs (like an [[Entity]] or [[DTO]]).
+
+**Python's Background:** Python would also create 1,000 objects. However, Python objects (especially [[ORM]] objects like [[SQLAlchemy]]) are "live" and connected to the database, making them very "heavy" in memory.
+- Because Python's memory management for 1,000 heavy objects can be expensive, developers often use **[[Serialization]]** to turn those objects into simple strings or dictionaries to save space.
+
 ## Spring Cloud
 A set of tools for building **Microservices.**
 It helps different small programs talk to each other safely.
