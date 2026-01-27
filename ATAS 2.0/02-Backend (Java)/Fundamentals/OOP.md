@@ -1,28 +1,28 @@
-# Four Pillars
-## Encapsulation
+# Four Pillars:
+## 1. Encapsulation
 use **Private** to hide method inside a class.
-### Private
-A access modifier and main tool for **Encapsulation.**
+- ### Private
+	- A access modifier and main tool for **Encapsulation.**
 
-## Inheritance
+## 2. Inheritance
 Use **extends** to pass traits from parent to child.
-### **extend**
-Build relationship with the class only or method also?
+- ### extend
+	- Build relationship with the class only or method also?
 
 | Without extend                                                                            | With extend |
 | ----------------------------------------------------------------------------------------- | ----------- |
 | Both class are independent, we can't inherit the method and used @override from the class |             |
 
-
-## Polymorphism
+## 3. Polymorphism
 One interface, many different forms (like a universal remote).
 
-
-
-## Abstraction
+## 4. Abstraction
 Hide complex details and only show the "buttons" you need.
 
-# Keywords
+
+---
+
+# Keywords:
 ## Static Method
 This method belongs to the Class, not an object instance.
 No need use the new keyword.
@@ -36,19 +36,19 @@ Use **Abstract** when want to force a group of different things to follow the sa
 - **The Situation:** By making it **Abstract** to ensure if a new developer adds "China Post" tomorrow, the code **will not run** unless they implement `calculateRate`. It acts as a safety contract.
 - **The Benefit:** Main "checkout" code doesn't need to know which company is being used; it just calls `.calculateRate()` on any shipping object.
 
-
-## This
+## `.this`
 In Java, we use `this` instead of `self`.
 It refers to **current object.**
 It help the code know you mean the "class variable", not a "local parameter."
 
 **Updating a Profile**
-**The Situation:** Having a class variable called `bio`. A user submits a forms with a new `bio`.
-**The Code:** `this.bio = bio;`
-**Why it happens:** `this.bio` is the "permanent" data saved in the **Object**
+- **The Situation:** Having a class variable called `bio`. A user submits a forms with a new `bio`.
+- **The Code:** `this.bio = bio;`
+- **Why it happens:** `this.bio` is the "permanent" data saved in the **Object**
+	- `bio` is the "temporary" data coming from the User's Request.
+	- `this` tells Java: "Take the new text and save it into this specific object's private memory."
 
-
-## **Void** 
+## **void** 
 Mean Empty, No return value
 - Execute a method without return anything
 	- exp: System.out.println("Nothing to return")
@@ -63,7 +63,7 @@ A best practice to avoid create a new method while inherited from a parent class
 	- Ide will report bug immediately and tell: "No pya() method in parent class"
 
 
-
+---
 
 ## Why Java requires "new Object()"?
 Java is a **class-based language.** Think of a **Class** as a blueprint and an **Object** as the actual house built from that blueprint.
@@ -93,11 +93,17 @@ If your system handles 1,000 users at the same time:
 **Python's Background:** Python would also create 1,000 objects. However, Python objects (especially [[ORM]] objects like [[SQLAlchemy]]) are "live" and connected to the database, making them very "heavy" in memory.
 - Because Python's memory management for 1,000 heavy objects can be expensive, developers often use **[[Serialization]]** to turn those objects into simple strings or dictionaries to save space.
 
+
+---
+
 ## Spring Cloud
 A set of tools for building **Microservices.**
 It helps different small programs talk to each other safely.
 It handles thing like configurations and service discovery in big systems.
 
+---
+
+## Data Structure
 
 String
 - Why need stringbuilder?
