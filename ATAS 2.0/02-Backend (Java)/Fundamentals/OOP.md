@@ -1,14 +1,20 @@
-4 Pillar:
-Encapsulation
-Inheritance
-Polymorphism
-Abstraction
+# Four Pillars
+## 1. Encapsulation
+use **Private** to hide method inside a class.
+### Private
+A access modifier and main tool for **Encapsulation.**
 
-**Private**
+## 2. Inheritance
+## 3. Polymorphism
+## 4. Abstraction
 
-Static Method
 
-Keywords:
+# Keywords
+## Static Method
+This method belongs to the Class, not an object instance.
+No need use the new keyword.
+Example: `Math.sqrt()` is a static method
+
 **Abstract**
 
 
