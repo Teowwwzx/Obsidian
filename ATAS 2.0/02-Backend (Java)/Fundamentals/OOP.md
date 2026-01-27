@@ -1,13 +1,26 @@
 # Four Pillars
-## 1. Encapsulation
+## Encapsulation
 use **Private** to hide method inside a class.
 ### Private
 A access modifier and main tool for **Encapsulation.**
 
-## 2. Inheritance
-## 3. Polymorphism
-## 4. Abstraction
+## Inheritance
+Use **extends** to pass traits from parent to child.
+### **extend**
+Build relationship with the class only or method also?
 
+| Without extend                                                                            | With extend |
+| ----------------------------------------------------------------------------------------- | ----------- |
+| Both class are independent, we can't inherit the method and used @override from the class |             |
+
+
+## Polymorphism
+One interface, many different forms (like a universal remote).
+
+
+
+## Abstraction
+Hide complex details and only show the "buttons" you need.
 
 # Keywords
 ## Static Method
@@ -22,36 +35,33 @@ In Java, we use `this` instead of `self`.
 It refers to **current object.**
 It help the code know you mean the "class variable", not a "local parameter."
 
-**Void** 
+## **Void** 
 Mean Empty, No return value
 - Execute a method without return anything
 	- exp: System.out.println("Nothing to return")
 - A method required a return value after execution
 	- exp: int will return a number.
 
-**@Override**
+## **@Override**
 A best practice to avoid create a new method while inherited from a parent class
 - Without @override
 	- Ide will recognize as a new method which run the method correctly but losing what?
 - With @override
 	- Ide will report bug immediately and tell: "No pya() method in parent class"
 
-**Extend**
-Build relationship with the class only or method also?
-- Without Extend
-	- Both class are independent, we can't inherit the method and used @override from the class
-- With Extend
 
 
 
-Why Java always need to create object like
-- new Obejct = object
-and this required more steps like called.self?
+Why Java requires "new Object()"
+Java is a class-based language. Think of a **Class** as a blueprint and an **Object** as the actual house built from that blueprint.
+- Memory Management: ** The `new` keyword tell Java to set aside a specific spot in the computer's memory for that unique instance.
+- Encapsulation: ** By creating an object, you are creating a **safe** where that specific object's data (like a user's balance) is kept private and separate from other objects.
+- **Identity: ** h
 
 ## Spring Cloud
 A set of tools for building **Microservices.**
 It helps different small programs talk to each other safely.
-It handles thing like configu
+It handles thing like configurations and service discovery in big systems.
 
 
 String
