@@ -6,7 +6,20 @@ Abstraction
 
 Private
 Static Method
-Void
+
+Keywords:
+
+**Void** 
+Mean Empty, No return value
+- Execute a method without return anything
+	- exp: System.Out.Println("Nothing to return")
+- A method required a return value after execution
+	- exp: int will return a number.
+
+**@Override**
+A best practice to avoid create a new method while inherited from a parent class
+- Without @override
+	- Ide will recognize as a new method
 
 Why Java always need to create object like
 - new Obejct = object
