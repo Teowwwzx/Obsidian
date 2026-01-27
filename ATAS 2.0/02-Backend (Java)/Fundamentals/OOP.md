@@ -52,11 +52,19 @@ A best practice to avoid create a new method while inherited from a parent class
 
 
 
-Why Java requires "new Object()"
-Java is a class-based language. Think of a **Class** as a blueprint and an **Object** as the actual house built from that blueprint.
-- Memory Management: ** The `new` keyword tell Java to set aside a specific spot in the computer's memory for that unique instance.
-- Encapsulation: ** By creating an object, you are creating a **safe** where that specific object's data (like a user's balance) is kept private and separate from other objects.
-- **Identity: ** h
+## Why Java requires "new Object()"?
+Java is a **class-based language.** Think of a **Class** as a blueprint and an **Object** as the actual house built from that blueprint.
+- **Memory Management:** The `new` keyword tell Java to set aside a specific spot in the computer's memory for that unique instance.
+- **Encapsulation:** By creating an object, you are creating a **safe** where that specific object's data (like a user's balance) is kept private and separate from other objects.
+- **Identity:** If two "User" objects, they might have same blueprint, but `new` ensures they have different date (User A is not User B)
+
+## What kind of Language is Python?
+Python is a **high-level, interpreted, and dynamically typed** language.
+- **Interpreted:** Unlike Java which compiled into bytecode and run by the JVM, Python code executed line-by-line by the Python Interpreter.
+- **Dynamically Typed:** Don't need declare variable types (like `int` or `string`). Python figures out the type at runtime.
+- **Everything is an Object:** In Python, even a simple number or a function is an object.
+
+
 
 ## Spring Cloud
 A set of tools for building **Microservices.**
