@@ -113,8 +113,9 @@ public class UserEntity {
 
 ### 4.2 DTO and the Constructor
 - Like **Pydantic**.
-- It is a simple, "dead" container designed only for the "courier" to carry to the frontend.
-
+-  `public UserResponseDTO(String username, String email)`, this is called a **Constructor**.
+-  `this` keyword to save them into the object's **private** variables.
+- constructor creates a **new** instance in memory every time a user profile is requested unlike static method.
 ```
 // This is the "Clean" version for the User/API 
 public class UserResponseDTO { 
@@ -129,8 +130,21 @@ public class UserResponseDTO {
 ```
 
 
-### 4.3 The "Service" (Moving data between containers)
-The Service layer acts as the **packer.** It takes the heavy object from the Warehouse and puts the "clean" parts into the shipping box.
+### 4.3 Service Layer & `@Autowired`
+Java uses [[Dependency Injection]] (the `@Autowired` part).
+- **What is `@Autowired`?** * In FastAPI, you might manually create a database session or pass it as a dependency.
+    
+    - In Java, `@Autowired` tells Spring: _"I need the tool called UserRepository to do my job. Please find it and plug it in for me automatically"_. It is like having a tool belt that is automatically filled when you start working.
+
+- **Why need a `UserRepository` object?** * The Service handles **Logic** (e.g., "Is this user banned?"), but it doesn't know how to talk to the database.
+    
+    - The `UserRepository` is the **Repository** layer; it is the specific "Librarian" who knows exactly how to find the data in the stacks.
+
+**The `getUserProfile` Method:** * `public UserResponseDTO getUserProfile(Long id)` is a method **inside** the `UserService` file.
+
+- It **returns** a `UserResponseDTO` object.
+    
+- **The Logic:** It asks the Repository for a "Heavy" Entity, extracts the safe parts, puts them into a "Clean" DTO, and hands it back to the Controller.
 
 ```
 @Service
