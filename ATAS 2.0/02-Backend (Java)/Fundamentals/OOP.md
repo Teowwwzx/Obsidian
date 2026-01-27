@@ -201,9 +201,9 @@ It handles thing like configurations and service discovery in big systems.
 
 ## Data Structure
 
-String
+## String
 - Why need stringbuilder?
-Int
+## Int
 - 32 bits
 - Max cover 21 billions
 ## long
@@ -212,7 +212,7 @@ Int
 - Covered from -9,223,372,036,854,775,808 until 9,223,372,036,854,775,807 的数字
 - **Pros:**
 	- **Optimized memory:** An uuid might took 36 bits
-	- **Ordering:** number is assecding (1,2,3..). This is good **[[B-Tree 索引]]** in database.
+	- **Ordering:** number is ascending (1,2,3..). This is good **[[B-Tree 索引]]** in database.
 - **Cons:**
 	- **Ordering exposure in URL:** Used it with uuid
 
@@ -220,20 +220,18 @@ Int
 - Wrapped Object 包装类对象。It's a real object.
 - Used for ID because an ID might be empty (null), only object type can present null. Primitive type like long with empty value, default is 0 which might cause logic error.
 
-
-
-Set
+## Set
 - Pro: To avoid duplicated data inside a set.
 - noDuplicatedSet = {"a", "b"}
-BigDecimal
+## BigDecimal
 - Pros: To avoid floating points issues like float
-HashDictionary
+## HashDictionary
 - Key-pair value and the performance O(1)
 - Cons: More memory, no order when retrieved
-LinkedHashDictionary
+## LinkedHashDictionary
 - Pros: Store with timestamp
 - Cons: Used more memory than HashDictionary
-CoccurentHashDictionary
+## CoccurentHashDictionary
 - Pros: Can modify the same Dictionary at the same time
 - Cons: More complex architecture
 
