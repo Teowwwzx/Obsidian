@@ -29,11 +29,24 @@ No need use the new keyword.
 Example: `Math.sqrt()` is a static method
 
 ## **Abstract**
+Use **Abstract** when want to force a group of different things to follow the same "rule" or "button" even if they work differently inside.
+
+**An E-commerce Shipping System** with shipping providers: **FedEx, DHL and UPS.**
+- **The Abstract Class (`ShippingProvider`):** You create an abstract class that defines a method `calculateRate()` . You don't write the code for it yet because FedEx calculates rates by weight, while DH: calculates by distance.
+- **The Situation:** By making it **Abstract** to ensure if a new developer adds "China Post" tomorrow, the code **will not run** unless they implement `calculateRate`. It acts as a safety contract.
+- **The Benefit:** Main "checkout" code doesn't need to know which company is being used; it just calls `.calculateRate()` on any shipping object.
+
 
 ## This
 In Java, we use `this` instead of `self`.
 It refers to **current object.**
 It help the code know you mean the "class variable", not a "local parameter."
+
+**Updating a Profile**
+**The Situation:** Having a class variable called `bio`. A user submits a forms with a new `bio`.
+**The Code:** `this.bio = bio;`
+**Why it happens:** `this.bio` is the "permanent" data saved in the **Object**
+
 
 ## **Void** 
 Mean Empty, No return value
