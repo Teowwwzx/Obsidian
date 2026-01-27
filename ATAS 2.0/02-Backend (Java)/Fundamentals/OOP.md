@@ -94,8 +94,9 @@ If your system handles 1,000 users at the same time:
 - Because Python's memory management for 1,000 heavy objects can be expensive, developers often use **[[Serialization]]** to turn those objects into simple strings or dictionaries to save space.
 
 
-### 4.1 The "Entity" (The Warehouse / Live Object)
-This is your **SQLAlchemy-equivalent** in Java. It is "heavy," connected to the database, and contains sensitive info like password hashes.
+### 4.1 `@Entity`
+- Like **SQLAlchemy** in Python.
+- `UserEnrity` is a live object carries hidden state like `_sa_instance_state` to keep track of database changes, so it's heavy.
 
 ```
 // This represents the actual table in your Database
@@ -110,8 +111,9 @@ public class UserEntity {
 }
 ```
 
-### 4.2 The "DTO" (The Packaging Box / Clean Object)
-This is your **Pydantic-equivalent**. It is a simple, "dead" container designed only for the "courier" to carry to the frontend.
+### 4.2 DTO and the Constructor
+- Like **Pydantic**.
+- It is a simple, "dead" container designed only for the "courier" to carry to the frontend.
 
 ```
 // This is the "Clean" version for the User/API 
