@@ -10,7 +10,7 @@ Void
 
 Why Java always need to create object like
 - new Obejct = object
-
+and this required more steps like called.self?
 
 Spring Cloud
 
