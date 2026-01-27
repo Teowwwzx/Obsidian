@@ -4,22 +4,35 @@ Inheritance
 Polymorphism
 Abstraction
 
-Private
+**Private**
+
 Static Method
 
 Keywords:
+**Abstract**
+
 
 **Void** 
 Mean Empty, No return value
 - Execute a method without return anything
-	- exp: System.Out.Println("Nothing to return")
+	- exp: System.out.println("Nothing to return")
 - A method required a return value after execution
 	- exp: int will return a number.
 
 **@Override**
 A best practice to avoid create a new method while inherited from a parent class
 - Without @override
-	- Ide will recognize as a new method
+	- Ide will recognize as a new method which run the method correctly but losing what?
+- With @override
+	- Ide will report bug immediately and tell: "No pya() method in parent class"
+
+**Extend**
+Build relationship with the class only or method also?
+- Without Extend
+	- Both class are independent, we can't inherit the method and used @override from the class
+- With Extend
+
+
 
 Why Java always need to create object like
 - new Obejct = object
