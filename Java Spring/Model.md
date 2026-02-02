@@ -12,12 +12,12 @@ Tell JPA, help me generate ID, doesn't need me to setID manually.
 `GenerationType.AUTO` mean [^1]Hibernate follow database type to choose (in [^2]H2 normally is 自增序列)
 
 
-|                         |                                                                                                                                                                        | Example |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| GenerationType.IDENTITY | `AUTO_INCREMENT`<br><br>**Pros**<br>/ [[Auto-inc Lock]]<br><br>**Cons**<br>x [[Batch Insert]]                                                                          |         |
-| GenerationType.AUTO     | Old version of Hibernate<br>`IDENTITY`<br><br>New version of Hibernate<br>`SEQUENCE`<br><br>MySQL x support Sequence object (newest version supported, but seldom use) |         |
-|                         |                                                                                                                                                                        |         |
-|                         |                                                                                                                                                                        |         |
+|                         |                                                                                                                                                                                                                                                                   | Example |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| GenerationType.IDENTITY | `AUTO_INCREMENT`<br><br>**Pros**<br>/ [[Auto-inc Lock]]<br><br>**Cons**<br>x [[Batch Insert]]                                                                                                                                                                     |         |
+| GenerationType.AUTO     | Old version of Hibernate<br>`IDENTITY`<br><br>New version of Hibernate<br>`SEQUENCE`<br><br>MySQL x support Sequence object (newest version supported, but seldom use)<br><br>Hibernate simulate sequence will create a table `hibernate_sequence` for storing ID |         |
+|                         |                                                                                                                                                                                                                                                                   |         |
+|                         |                                                                                                                                                                                                                                                                   |         |
 
 
 |ID Data Type|`GenerationType.AUTO` Strategy (Commonly Used)|How it Works|
