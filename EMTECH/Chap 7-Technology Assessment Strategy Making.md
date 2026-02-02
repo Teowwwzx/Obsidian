@@ -66,6 +66,9 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 | **Exhaustive/inclusive process 全面整合** make sure the decision making is comprehensive without missing our any important info. | **Overconfidence in analysis 过度自信** that model is correct will lead the exactly same result but neglect 忽略 the reality incident.  |
 
 ### Imagination
-| Benefits                                                                                                                     | Limitations                                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Benefits                                                                             | Limitations                                                                                                         |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Adaptive thinking which think out of the box                                         | Chaos with different ideas which miss focus                                                                         |
+| Hierarchy of imagination which imagination will crash the experiences in front of it | Losing touch with reality which imagination might be good but in reality either can't implement or no one buying it |
+| Future oriented which imagine the future of company and work backward                | Undervaluing the past might loss the past success due to the traditional approach and slwoing the p                 |
 
