@@ -20,7 +20,9 @@ Focuses on how firm bridge the gap between a **cool new tech** and **winning bus
 
 
 A systematic way a firm looks at tech:
-- **Scoping:** Establishing clear limits based on **strategic intent (where you're going)** and **firm capabilities (what you're good at).**
+- **Scoping:** 
+	- Strategy Intent 战略意图
+	- Firm Capabilities 企业能力
 - **Searching:** 
 	- Knowledge Networks
 		- Strong Signal
@@ -33,16 +35,20 @@ A systematic way a firm looks at tech:
 	- **Risk Profiling**
 		- **Market Risk:** How big is the market? What customer need? How competitors fight back?
 		- **Tech Risk:** Is this tech able to produce? Able to standardize? Can batch produce?
-		- Organizational Risk/implications 影响: Is our staff capable to handle? Sufficient money to burn? Is company capable to catch up the trend?
-		- Potential financial rewards
+		- **Organizational Risk/implications 影响:** Is our staff capable to handle? Sufficient money to burn? Is company capable to catch up the trend?
+		- **Potential financial rewards**
 - **Committing:**
 	- Strategic Commitment / 战略承诺
-	![[Pasted image 20260202134237.png]]
 		- Risk and Reward of the relationship.
+![[Pasted image 20260202134237.png]]
 
 ---
 
 ## 2. Strategy as an Art
+> Strategy is an Art, not a Science.
+
+
+
 This argues the strategy is like a **theory of success that hasn't been tested yet.** Because the future is uncertain, have to use **Disciplined Imagination** the **[[Twin Pillars of Strategy]].**
 
 | Pillar      | What it is                                            | Goal                                                                          |
