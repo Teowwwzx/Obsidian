@@ -5,12 +5,12 @@
 
 ## 2. The Four Mechanisms of Appropriability
 
-| Mechanism                       | Description                                                                                                                                                                         | Example                                                             |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| ==Patent & Legal==              | ==Legal protection for machines or compositions/creations 作品== of matter                                                                                                            | Valid for 20 years but ==legal costs are high==                     |
-| ==Secrecy==                     | Keeping the ==**how to** hidden from others==                                                                                                                                       | Easier for processes than for products                              |
-| ==Complementary <br>互补 Assets== | Resources like distribution, service capability, or ==customer/supplier relationship==<br><br>New product ==lack of patentable==, required ==specialized facilities & manufacture== | IBM used their sales/service strength to dominate, not just patents |
-| ==Lead Time==                   | Being the ==fastest to develop and market the app==                                                                                                                                 | Allow to ==build reputation before competitors/rivar appear==       |
+| Mechanism                       | Description                                                                                                                                                                                      | Example                                                             |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| ==Patent & Legal==              | ==Legal protection for machines or compositions/creations 作品== of matter<br><br>Effective in pharmaceuticals industry and moderate in computers and semi-conductors                              | Valid for 20 years but ==legal costs are high==                     |
+| ==Secrecy==                     | Keeping the ==**how to** hidden from others==<br><br>Minimal risk when secret is too complex to transfer easily<br><br>Impact/hampered 受阻 future productivity of company R&D by too much secrecy | Easier for processes than for products                              |
+| ==Complementary <br>互补 Assets== | Resources like distribution, service capability, or ==customer/supplier relationship==<br><br>New product ==lack of patentable==, required ==specialized facilities & manufacture==              | IBM used their sales/service strength to dominate, not just patents |
+| ==Lead Time==                   | Being the ==fastest to develop and market the app==                                                                                                                                              | Allow to ==build reputation before competitors/rivar appear==       |
 
 
 ## 3. The **Intellectual Property** Trap
