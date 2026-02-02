@@ -1,5 +1,16 @@
 Focuses on how firm bridge the gap between a **cool new tech** and **winning business strategy.** Since emerging tech often unpredictable, can't just use a rigid 僵化, mechanical plan; you need a process that balances logic with creativity.
 
+## Key Terminologies 术语
+- Technology Assessment Process
+- Scoping
+- Searching
+- Evaluating
+- Committing
+- Strategy
+- Environment
+- Uncertainty
+- Discipline
+- Imagination
 ## The 4 Step Assessment Process
 A systematic way a firm looks at tech:
 - **Scoping:** Establishing clear limits based on **strategic intent (where you're going)** and **core capabilities (what you're good at).**
@@ -11,6 +22,7 @@ A systematic way a firm looks at tech:
 This argues the strategy is like a **theory of success that hasn't been tested yet.** Because the future is uncertain, have to use **Disciplined Imagination** the **[[Twin Pillars of Strategy]].**
 
 
-| Pillar     | What it is                             | Goal                                                  |
-| ---------- | -------------------------------------- | ----------------------------------------------------- |
-| Discipline | Consistent rules and rational analysis | To avoid **avoidable errors** and stay grounded in re |
+| Pillar      | What it is                                            | Goal                                                                          |
+| ----------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Discipline  | Consistent rules and rational analysis                | To avoid **avoidable errors** and stay grounded in reality.                   |
+| Imagination | Creative **out-of-the-box** thinking and foresight 远见 | To generate diverse, distinct options and **think backward from the future.** |
