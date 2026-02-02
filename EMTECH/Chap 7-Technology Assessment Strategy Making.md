@@ -1,0 +1,1 @@
+Focuses on how firm bridge the gap between a **cool new tech** and **winning business strategy.** Since emerging tech often unpredictable, can't just use a rigid, mechanical plan; you need a process that balances logic with creativity.

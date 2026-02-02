@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "9242d33b6ff8f705",
+    "id": "b688927c5e4008ec",
     "type": "split",
     "children": [
       {
-        "id": "5e22de3a19677a08",
+        "id": "0558efbdde4287cf",
         "type": "tabs",
         "children": [
           {
-            "id": "759d190f7e3de195",
+            "id": "b93531578f39fecc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Chap 7-Technology Assessment Strategy Making.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chap 7-Technology Assessment Strategy Making"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0c671051c8477a6",
+    "id": "2d07444dd62becdd",
     "type": "split",
     "children": [
       {
-        "id": "ad8a594d22fd0de3",
+        "id": "ba16bd8372dbbf47",
         "type": "tabs",
         "children": [
           {
-            "id": "8fcf612ac8ac2554",
+            "id": "eba803ab53d751d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "b8c029c91033e3ea",
+            "id": "1f935afde6c9046d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "669e3c944f0cf8e8",
+            "id": "f6b3c0b442ba640b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,22 +74,23 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "f5115afabd036bea",
+    "id": "6fa4bd48442c0fa8",
     "type": "split",
     "children": [
       {
-        "id": "1dcfc55b340e9b14",
+        "id": "6b26c95a898251b4",
         "type": "tabs",
         "children": [
           {
-            "id": "f9fa757a35990322",
+            "id": "ee9bf3422ea7e3c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,7 +109,7 @@
             }
           },
           {
-            "id": "f6cb61fdd508fe9b",
+            "id": "a31253022111a519",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -118,7 +123,7 @@
             }
           },
           {
-            "id": "a6da26753c90f849",
+            "id": "b8c5e34d8946c0ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +138,7 @@
             }
           },
           {
-            "id": "e29b2646a8c9697f",
+            "id": "07e1c7969557ea0d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,7 +152,7 @@
             }
           },
           {
-            "id": "9a2fa40519497d60",
+            "id": "28822d2bb8f4d816",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -177,48 +182,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "8fcf612ac8ac2554",
+  "active": "b93531578f39fecc",
   "lastOpenFiles": [
-    "2026-02-01.md",
-    "Untitled.canvas",
-    "Bayesian statistics 贝叶斯统计.md",
-    "Pasted image 20260131181534.png",
-    "Single-Index Model.md",
-    "Regression Model.md",
-    "Topic 3-Investment Model and Robo Advisor.md",
-    "Topic 1-Introduction to Investment Management.md",
-    "Topic 2.md",
-    "images/Pasted image 20260131170337.png",
-    "images/Pasted image 20260131175352.png",
-    "images/Pasted image 20260129191039.png",
-    "images",
-    "images/Pasted image 20260130151216.png",
-    "images/Pasted image 20260130150354.png",
-    "images/Pasted image 20260130145727.png",
-    "images/Pasted image 20260130145244.png",
-    "images/Pasted image 20260130143843.png",
-    "EMTECH.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "images/Pasted image 20260129192849.png",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "Chap 7-Technology Assessment Strategy Making.md"
   ]
 }

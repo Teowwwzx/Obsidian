@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "9242d33b6ff8f705",
+    "id": "b5ea7f4ca1fc2bf8",
     "type": "split",
     "children": [
       {
-        "id": "5e22de3a19677a08",
+        "id": "153e5fc6ded5772c",
         "type": "tabs",
         "children": [
           {
-            "id": "759d190f7e3de195",
+            "id": "4689979ba036687d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d0c671051c8477a6",
+    "id": "e6ed63cce87cad01",
     "type": "split",
     "children": [
       {
-        "id": "ad8a594d22fd0de3",
+        "id": "50c91b59fc17f5a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8fcf612ac8ac2554",
+            "id": "4bb9b9aba583f86d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "b8c029c91033e3ea",
+            "id": "df1aff0cb813d440",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "669e3c944f0cf8e8",
+            "id": "19db6389d7f0bb2d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "f5115afabd036bea",
+    "id": "b8794edc7d1cb795",
     "type": "split",
     "children": [
       {
-        "id": "1dcfc55b340e9b14",
+        "id": "75f207bc1e06ce2d",
         "type": "tabs",
         "children": [
           {
-            "id": "f9fa757a35990322",
+            "id": "5345c3d9678df58e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f6cb61fdd508fe9b",
+            "id": "1db38917ea629cf1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a6da26753c90f849",
+            "id": "3b8279fbfbff700e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +131,7 @@
             }
           },
           {
-            "id": "e29b2646a8c9697f",
+            "id": "39e5f722a4f229ee",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,18 +145,17 @@
             }
           },
           {
-            "id": "9a2fa40519497d60",
+            "id": "649b416d65567c7b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -176,49 +173,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "copilot:Open Copilot Chat": false
+      "bases:Create new base": false
     }
   },
-  "active": "8fcf612ac8ac2554",
+  "active": "4689979ba036687d",
   "lastOpenFiles": [
-    "2026-02-01.md",
-    "Untitled.canvas",
-    "Bayesian statistics 贝叶斯统计.md",
-    "Pasted image 20260131181534.png",
-    "Single-Index Model.md",
-    "Regression Model.md",
-    "Topic 3-Investment Model and Robo Advisor.md",
-    "Topic 1-Introduction to Investment Management.md",
-    "Topic 2.md",
-    "images/Pasted image 20260131170337.png",
-    "images/Pasted image 20260131175352.png",
-    "images/Pasted image 20260129191039.png",
-    "images",
-    "images/Pasted image 20260130151216.png",
-    "images/Pasted image 20260130150354.png",
-    "images/Pasted image 20260130145727.png",
-    "images/Pasted image 20260130145244.png",
-    "images/Pasted image 20260130143843.png",
-    "EMTECH.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "images/Pasted image 20260129192849.png",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "Welcome.md"
   ]
 }
