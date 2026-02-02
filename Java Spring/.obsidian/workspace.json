@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4689979ba036687d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Model"
-            }
-          },
-          {
             "id": "f781b909465a6678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Model"
-            }
-          },
-          {
-            "id": "698443cfd4691d51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "Thread-Unsafe"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,17 +203,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "698443cfd4691d51",
+  "active": "f781b909465a6678",
   "lastOpenFiles": [
-    "Pasted image 20260203013155.png",
-    "Pasted image 20260203013142.png",
-    "Pasted image 20260203013100.png",
-    "Pasted image 20260203013034.png",
-    "Pasted image 20260203012841.png",
-    "Pasted image 20260203012748.png",
-    "Pasted image 20260203012726.png",
     "Model.md",
+    "images/Pasted image 20260203012726.png",
+    "images/Pasted image 20260203012748.png",
     "Thread-Unsafe.md",
+    "images",
+    "images/Pasted image 20260203013155.png",
+    "images/Pasted image 20260203013142.png",
+    "images/Pasted image 20260203013100.png",
+    "images/Pasted image 20260203013034.png",
+    "images/Pasted image 20260203012841.png",
     "gemini-scribe/Agent-Sessions/Hibernate GenerationType.AUTO Explained.md",
     "gemini-scribe/Agent-Sessions",
     "Module.md",

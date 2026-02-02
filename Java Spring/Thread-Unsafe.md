@@ -32,6 +32,7 @@
 
 ## Synchronized
 Mutual Exclusion Lock 互斥锁: This piece of code only can have one thread go in at a time.
+Ensure Atomicity
 
 ![[Pasted image 20260203013034.png]]
 
@@ -45,6 +46,8 @@ Mutual Exclusion Lock 互斥锁: This piece of code only can have one thread go 
 
 ### 乐观锁 (Optimistic Lock)
 佛系模式，大家随便看，但提交时如果发现别人改过了，我就报错重来。
+
+---
 
 # Visibility
 - **现象：** 线程 A 修改了一个全局变量，线程 B 却看不见，依然在用旧的值。
@@ -64,3 +67,9 @@ Mutual Exclusion Lock 互斥锁: This piece of code only can have one thread go 
 - **现象：** 线程 A 拿着锁 1 想要锁 2，线程 B 拿着锁 2 想要锁 1。大家都不松手，系统直接卡死。
     
 - **Why：** 锁的申请顺序不一致导致的逻辑闭环。
+
+
+# Extra Knowledge
+## Distributed Database
+- [[Sharding]]
+- [[Paxos]] / [[Raft]]
