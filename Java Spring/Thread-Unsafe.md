@@ -1,5 +1,6 @@
 
 # Race Condition
+**本质逻辑是：非原子性操作 (Non-atomic Operation)。** 你的 `buy` 方法包含了：**1. 读 -> 2. 改 -> 3. 写**。 只要这三步不是一气呵成的（中间可以被别人插足），它就是 Thread-Unsafe 的。
 
 想象一下，只剩 **1 个** 苹果时，**线程 A** 和 **线程 B** 同时进来了：
 
@@ -29,9 +30,37 @@
 
 
 
-# Synchronized
+## Synchronized
 Mutual Exclusion Lock 互斥锁: This piece of code only can have one thread go in at a time.
 
 ![[Pasted image 20260203013034.png]]
 
 ![[Pasted image 20260203013155.png]]
+
+💡
+“有没有更高效的方法？不要让大家傻排队，但又要保证安全？”
+
+### 悲观锁 (Pessimistic Lock)
+霸道总裁模式，我查的时候别人连看都不能看。
+
+### 乐观锁 (Optimistic Lock)
+佛系模式，大家随便看，但提交时如果发现别人改过了，我就报错重来。
+
+# Visibility
+- **现象：** 线程 A 修改了一个全局变量，线程 B 却看不见，依然在用旧的值。
+    
+- **Why：** 现代 CPU 有 L1/L2 缓存。线程 A 可能只改了自己的 CPU 缓存，没写回主内存（Main Memory）。
+    
+- **解决方法：** 使用 `volatile` 关键字（你之前问过的那个词！）。
+
+# Instruction Reordering
+- 为了优化性能，编译器或 CPU 会自作聪明地乱改你的代码顺序。
+    
+- **例子：** 你写的是 `a = 1; b = 2;`，CPU 觉得先执行 `b = 2` 更快。在单线程没问题，但在多线程下，如果线程 B 依赖 `a` 的值来判断 `b` 是否可用，就会瞬间崩掉。
+    
+- **解决方法：** 还是 `volatile`（它能建立内存屏障，禁止乱排）。
+
+# Deadlock
+- **现象：** 线程 A 拿着锁 1 想要锁 2，线程 B 拿着锁 2 想要锁 1。大家都不松手，系统直接卡死。
+    
+- **Why：** 锁的申请顺序不一致导致的逻辑闭环。
