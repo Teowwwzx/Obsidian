@@ -5,12 +5,13 @@
 
 ## 2. The Four Mechanisms of Appropriability
 
-| Mechanism                | Description                                                              | Example                                                             |
-| ------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| ==Patent & Legal==       | ==Legal protection for machines or compositions/creations 作品== of matter | Valid for 20 years but ==legal costs are high==                     |
-| ==Secrecy==              | Keeping the **how to** hidden from others                                | Easier for processes than for products                              |
-| ==Complementary Assets== | Resources like distribution, sales force, or service support             | IBM used their sales/service strength to dominate, not just patents |
-| ==Lead Time==            | Being the fastest to develop and market the app                          | Allow to build reputation before competitors appear                 |
+| Mechanism                       | Description                                                                                                                                                             | Example                                                             |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ==Patent & Legal==              | ==Legal protection for machines or compositions/creations 作品== of matter                                                                                                | Valid for 20 years but ==legal costs are high==                     |
+| ==Secrecy==                     | Keeping the ==**how to** hidden from others==                                                                                                                           | Easier for processes than for products                              |
+| ==Complementary <br>互补 Assets== | Resources like distribution, service capability, or customer/supplier relationship<br><br>New product lack of patentable, required specialized facilities & manufacture | IBM used their sales/service strength to dominate, not just patents |
+| ==Lead Time==                   | Being the fastest to develop and market the app                                                                                                                         | Allow to build reputation before competitors appear                 |
+
 
 ## 3. The **Intellectual Property** Trap
 One of the biggest mistakes managers make is putting too much emphasis 强调 on patents.
