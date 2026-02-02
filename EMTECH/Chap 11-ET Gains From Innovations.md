@@ -5,12 +5,12 @@
 
 ## 2. The Four Mechanisms of Appropriability
 
-| Mechanism            | Description                                                  | Example                                                             |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- |
-| Patent & Legal       | Legal protection for machines or compositions of matter      | Valid for 20 years but legal costs are high                         |
-| Secrecy              | Keeping the **how to** hidden from others                    | Easier for processes than for products                              |
-| Complementary Assets | Resources like distribution, sales force, or service support | IBM used their sales/service strength to dominate, not just patents |
-| Lead Time            | Being the fastest to develop and market the app              | Allow to build reputation before competitors appear                 |
+| Mechanism                | Description                                                              | Example                                                             |
+| ------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| ==Patent & Legal==       | ==Legal protection for machines or compositions/creations 作品== of matter | Valid for 20 years but ==legal costs are high==                     |
+| ==Secrecy==              | Keeping the **how to** hidden from others                                | Easier for processes than for products                              |
+| ==Complementary Assets== | Resources like distribution, sales force, or service support             | IBM used their sales/service strength to dominate, not just patents |
+| ==Lead Time==            | Being the fastest to develop and market the app                          | Allow to build reputation before competitors appear                 |
 
 ## 3. The **Intellectual Property** Trap
 One of the biggest mistakes managers make is putting too much emphasis 强调 on patents.
@@ -32,4 +32,4 @@ A slide warns managers about two extremes when they are trying to decide which e
 Which goose will produce the golden egg is a reminder that managers must constantly evaluate which of their internal teams or projects is most likely to deliver the next breakthrough.
 
 ## Summary
-**Guard the Golden Goose** to survive long-term, a firm must protect its ability to innovate (the Goose). Managers must balance their focus: a scope that is too narrow makes them the risk to being replaced with new tech, while a broad scope causes a loss of focus.
+==**Guard the Golden Goose** to survive long-term==, a firm must ==protect its ability to innovate (the Goose)==. Managers must ==balance their focus==: a scope that is too ==narrow makes them the risk to being replaced== with new tech, while a ==broad scope causes a loss of focus.== The goal is to sustain ==**dynamic capabilities**== to keep ==producing **golden eggs (successful innovation)**==
