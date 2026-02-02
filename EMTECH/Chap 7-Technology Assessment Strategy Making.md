@@ -47,11 +47,10 @@ A systematic way a firm looks at tech:
 ## 2. Strategy as an Art
 > Strategy is an Art, not a Science.
 
-
-
-This argues the strategy is like a **theory of success that hasn't been tested yet.** Because the future is uncertain, have to use **Disciplined Imagination** the **[[Twin Pillars of Strategy]].**
+Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin Pillars of Strategy]].**
 
 | Pillar      | What it is                                            | Goal                                                                          |
 | ----------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Discipline  | Consistent rules and rational analysis                | To avoid **avoidable errors** and stay grounded in reality.                   |
 | Imagination | Creative **out-of-the-box** thinking and foresight 远见 | To generate diverse, distinct options and **think backward from the future.** |
+![[Pasted image 20260202140429.png]]
