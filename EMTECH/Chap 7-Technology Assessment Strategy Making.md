@@ -98,6 +98,7 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 	- Make the company iteration process with discipline and imagination period. Company leverage the imagination to create a potential for company and use discipline to assess the implied risk and feasibility.
 
 4. Discuss the art of strategy making
-	- There are two type of strategy making which is discipline and imagination. Discipline strategy will make a rational decision depend on the past analytical data and ensure the company grow smoothly without too much uncertainty but the past data might be  
+	- There are two type of strategy making which is discipline and imagination. Discipline strategy will make a rational decision depend on the past analytical data and ensure the company grow smoothly without too much uncertainty but the past data might lead failure and inaccurate in emerging technology. On the another hand is imagination, this will bring out creative idea to enhance attraction of the tech and create a potential in the future that possible to catch up the trend however it might be risky without any evaluation such as market acceptance level and does it solve the root pain or just create a pain to solve it.
 
 5. Explain the twin pillars of Strategy
+	1. 
