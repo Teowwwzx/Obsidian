@@ -19,6 +19,10 @@ Tell JPA, help me generate ID, doesn't need me to setID manually.
 
 # Java Data Type
 
+| Data Type | Descriptions | Example |
+| --------- | ------------ | ------- |
+|           |              |         |
+
 
 
 
