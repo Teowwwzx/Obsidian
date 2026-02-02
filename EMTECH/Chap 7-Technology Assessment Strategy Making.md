@@ -53,4 +53,10 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 | ----------- | ----------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Discipline  | Consistent rules and rational analysis                | To avoid **avoidable errors** and stay grounded in reality.                   |
 | Imagination | Creative **out-of-the-box** thinking and foresight 远见 | To generate diverse, distinct options and **think backward from the future.** |
+### Discipline
+
+| Benefits                                                            | Limitations                                                                                                        |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Great consensus 达成共识 among top manager with supported data analysis | Analysis rather than synthesis 只有拆解，没有整合 which analysis the details but not able to convert to a new synthesis 新愿景 |
+
 ![[Pasted image 20260202140429.png]]
