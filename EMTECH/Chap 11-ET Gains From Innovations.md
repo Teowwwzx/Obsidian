@@ -29,4 +29,7 @@ A slide warns managers about two extremes when they are trying to decide which e
 - **Broad Scope (太广):** If you try to do everything at once which running with danger of losing focus and flexibility. Spread too thin to be great at anything.
 
 ## The Big Question
-Which goose will produce the golden egg
+Which goose will produce the golden egg is a reminder that managers must constantly evaluate which of their internal teams or projects is most likely to deliver the next breakthrough.
+
+## Summary
+**Guard the Golden Goose** to survive long-term, a firm must protect its ability to innovate (the Goose). Managers must balance their focus: a scope that is too narrow makes them the risk to being replaced with new tech, while a broad scope causes a loss of focus.
