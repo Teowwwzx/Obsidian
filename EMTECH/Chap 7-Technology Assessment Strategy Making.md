@@ -54,6 +54,7 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 | Discipline  | Consistent rules and rational analysis                | To avoid **avoidable errors** and stay grounded in reality.                   |
 | Imagination | Creative **out-of-the-box** thinking and foresight 远见 | To generate diverse, distinct options and **think backward from the future.** |
 
+
 ---
 
 ### Discipline
@@ -67,7 +68,4 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 ### Imagination
 | Benefits                                                                                                                     | Limitations                                                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **Great consensus 达成共识** among top manager with supported data analysis                                                      | **Analysis rather than synthesis 只有拆解，没有整合** which analysis the details but not able to convert to a new synthesis 新愿景            |
-| **More judicious 决策更审慎** with those analytical data                                                                          | **Selections at the generation 只选不造** within the data but it won't come up with new selection.                                    |
-| **Identify avoidable error 纠正低级错误** to find previous mistake and error for improvement                                       | **Extrapolation from the past 迷信过去** is dangerous in emerging technology due to past data might outdated and not accurate already |
-| **Exhaustive/inclusive process 全面整合** make sure the decision making is comprehensive without missing our any important info. | **Overconfidence in analysis 过度自信** that model is correct will lead the exactly same result but neglect 忽略 the reality incident.  |
+
