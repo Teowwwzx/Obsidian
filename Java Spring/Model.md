@@ -11,6 +11,15 @@ Primary key
 Tell JPA, help me generate ID, doesn't need me to setID manually.
 `GenerationType.AUTO` mean [^1]Hibernate follow database type to choose (in [^2]H2 normally is 自增序列)
 
+
+|                         |                                                                                                                                                                        | Example |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| GenerationType.IDENTITY | `AUTO_INCREMENT`<br><br>**Pros**<br>/ [[Auto-inc Lock]]<br><br>**Cons**<br>x [[Batch Insert]]                                                                          |         |
+| GenerationType.AUTO     | Old version of Hibernate<br>`IDENTITY`<br><br>New version of Hibernate<br>`SEQUENCE`<br><br>MySQL x support Sequence object (newest version supported, but seldom use) |         |
+|                         |                                                                                                                                                                        |         |
+|                         |                                                                                                                                                                        |         |
+
+
 |ID Data Type|`GenerationType.AUTO` Strategy (Commonly Used)|How it Works|
 |:--|:--|:--|
 |**`long` or `int`**|**Identity/Sequence/Table** (Database-specific auto-increment)|The database (like H2, MySQL, or PostgreSQL) handles generating the next sequential number.|
@@ -51,9 +60,9 @@ Tell JPA, help me generate ID, doesn't need me to setID manually.
 
 # Algorithms
 
-| Snowflake |     |
-| --------- | --- |
-|           |     |
+| Snowflake 雪花算法 |     |     |
+| -------------- | --- | --- |
+|                |     |     |
 
 
 
