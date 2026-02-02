@@ -38,11 +38,10 @@ A systematic way a firm looks at tech:
 		- Competitive intelligence.
 	- **Knowledge & Information Capture:** As picture become more complex, company needs a system for keep track all the info & progress
 - **Evaluating:**
-	- **Risk Profiling**.
-	- To assess tech in the context of corporate strategy, manager can develop tch plans
-		- Tech commercialization
-		- Required investment
-		- Organizational implications 影响
+	- **Risk Profiling**
+		- **Market Risk:** How big is the market? What customer need? How competitors fight back?
+		- **Tech Risk:** Is this tech able to produce? Able to standardize? Can batch produce?
+		- Organizational Risk/implications 影响: Is our staff capable to handle? Sufficient money to burn? Is company capable to catch up the trend?
 		- Potential financial rewards
 - **Committing:**
 	- Competitive imperative to take action
