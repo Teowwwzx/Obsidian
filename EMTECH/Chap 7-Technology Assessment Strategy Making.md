@@ -84,11 +84,18 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 	- Scoping to find out the capabilities and advantages of the company.
 	- Searching to find out is the approach feasible in the market and how was the competitors situation.
 	- Evaluating the capabilities of company existing staff and fund reserve of the company.
-	- 
+	- Committing the reward and risk of the relationship of the partners or employees.
 
 2. Explaining Risk Profiling.
+	1. Market Risk
+		- Evaluate the market momentum and trend to fulfil the regulatory.
+	2. Technology Risk
+		- Evaluate the technology feasible or not to implement.
+	3. Organization Risk
+		- Evaluate the capabilities of organizations staff and reserve fund.
 
 3. Explain Strategy making in uncertain environments
+4. 
 
 4. Discuss the art of strategy making
 
