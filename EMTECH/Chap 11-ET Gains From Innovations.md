@@ -13,3 +13,6 @@
 | Lead Time            | Being the fastest to develop and market the app              | Allow to build reputation before competitors appear                 |
 
 ## 3. The **Intellectual Property** Trap
+One of the biggest mistakes managers make is putting too much emphasis 强调 on patents.
+- **Perceptual Distortion:** Manager wrongly think a project isn't worth doing just because they can't get a patent.
+- **Inventing Around:** Competitors can often **legally invent around** a patent by producing a different version that doesn't infringe on the original idea.
