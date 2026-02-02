@@ -95,7 +95,7 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 		- ==**Capabilities of company and employees, cost, and fund burn rate**==
 
 3. Explain Strategy making in uncertain environments
-	- **==Strategy can be thought of a theory of success that has not yet been tested.==** By ake the company iteration process with discipline and imagination period. Company leverage the imagination to create a potential for company and use discipline to assess the implied risk and feasibility.
+	- **==Strategy can be thought of a theory of success that has not yet been tested.==** Two strategies can be integrated into company iteration process like discipline and imagination. For discipline strategy can lead the top managers of the company to made **==rational==** decision based on the past analytical data but it can be extrapolation from the past. Besides, imagination strategy to create a huge potential for the company's future but it might bring chaos and slow down the progress of implementation.
 
 4. Discuss the art of strategy making
 	- There are two type of strategy making which is discipline and imagination. Discipline strategy will make a rational decision depend on the past analytical data and ensure the company grow smoothly without too much uncertainty but the past data might lead failure and inaccurate in emerging technology. On the another hand is imagination, this will bring out creative idea to enhance attraction of the tech and create a potential in the future that possible to catch up the trend however it might be risky without any evaluation such as market acceptance level and does it solve the root pain or just create a pain to solve it.
