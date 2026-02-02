@@ -32,7 +32,9 @@
 
 ## Synchronized
 Mutual Exclusion Lock 互斥锁: This piece of code only can have one thread go in at a time.
-Ensure Atomicity
+
+- Atomicity
+	- [[Redis]] / [[Zookeeper]]
 
 ![[Pasted image 20260203013034.png]]
 
