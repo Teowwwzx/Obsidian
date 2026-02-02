@@ -24,5 +24,9 @@ One of the biggest mistakes managers make is putting too much emphasis 强调 on
 - Depend on building a system or culture that can sustain innovation accomplishments/achievement 成就 year after year.
 
 ## The Danger of Scope (Golden Eggs)
-A slide warns managers about two extremes when they are trying to devide which eggs (tech) to focus on:
-- **Narrow Scope (太窄):** If focus only on one tiny niche, the risk of company's skiils
+A slide warns managers about two extremes when they are trying to decide which eggs (tech) to focus on:
+- **Narrow Scope (太窄):** If focus only on one tiny niche, the risk of company's skills becoming obsolete (过时) if a new tech suddenly replaces that niche.
+- **Broad Scope (太广):** If you try to do everything at once which running with danger of losing focus and flexibility. Spread too thin to be great at anything.
+
+## The Big Question
+Which goose will produce the golden egg
