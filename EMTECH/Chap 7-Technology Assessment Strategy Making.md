@@ -75,3 +75,21 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 ### Disciplined Imagination
 - Leverage imagination to produce different approach, and use discipline to assess the approach is it feasible.
 - Build a period of idea generation using imagination and periods of disciplined idea evaluation
+
+---
+
+## As a summary, these are the areas covered:
+
+1. Explaining the Technology Assessment Process.
+	- Scoping to find out the capabilities and advantages of the company.
+	- Searching to find out is the approach feasible in the market and how was the competitors situation.
+	- Evaluating the capabilities of company existing staff and fund reserve of the company.
+	- 
+
+2. Explaining Risk Profiling.
+
+3. Explain Strategy making in uncertain environments
+
+4. Discuss the art of strategy making
+
+5. Explain the twin pillars of Strategy
