@@ -95,8 +95,9 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 		- Evaluate the capabilities of organizations staff and reserve fund.
 
 3. Explain Strategy making in uncertain environments
-4. 
+	- Make the company iteration process with discipline and imagination period. Company leverage the imagination to create a potential for company and use discipline to assess the implied risk and feasibility.
 
 4. Discuss the art of strategy making
+	- There are two type of strategy making which is discipline and imagination. Discipline strategy will make a rational decision depend on the past analytical data and ensure the company grow smoothly without too much uncertainty but the past data might be  
 
 5. Explain the twin pillars of Strategy
