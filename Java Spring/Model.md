@@ -41,11 +41,12 @@ Tell JPA, help me generate ID, doesn't need me to setID manually.
 
 # Indexing
 
-| Type     | Description |
-| -------- | ----------- |
-| Tree     |             |
-| B Tree   |             |
-| B + Tree |             |
+| Type                 | Description | Example |
+| -------------------- | ----------- | ------- |
+| Clustered Index 聚簇索引 |             |         |
+| Tree                 |             |         |
+| B Tree               |             |         |
+| B + Tree             |             |         |
 
 # Algorithms
 
