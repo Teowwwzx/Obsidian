@@ -1,5 +1,6 @@
 ## 1. The Three Hurdles 障碍 of Innovation
 - Technical Success
+	- the wonder
 - Value Creation
 - Appropriating Gains
 
