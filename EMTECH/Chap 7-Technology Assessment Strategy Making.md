@@ -55,8 +55,10 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 | Imagination | Creative **out-of-the-box** thinking and foresight 远见 | To generate diverse, distinct options and **think backward from the future.** |
 ### Discipline
 
-| Benefits                                                            | Limitations                                                                                                        |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Great consensus 达成共识 among top manager with supported data analysis | Analysis rather than synthesis 只有拆解，没有整合 which analysis the details but not able to convert to a new synthesis 新愿景 |
+| Benefits                                                                | Limitations                                                                                                                     |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Great consensus 达成共识 among top manager with supported data analysis     | Analysis rather than synthesis 只有拆解，没有整合 which analysis the details but not able to convert to a new synthesis 新愿景              |
+| More judicious (决策更审慎) with those analytical data                       | Options generated within the data analytical, won't come up alter option                                                        |
+| Identify avoidable error to find error within the logic to keep improve | Extrapolation from the past (迷信过去) is dangerous in emerging technology due to past data might outdated and not accurate already |
 
 ![[Pasted image 20260202140429.png]]
