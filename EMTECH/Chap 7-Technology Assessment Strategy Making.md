@@ -17,7 +17,10 @@ Focuses on how firm bridge the gap between a **cool new tech** and **winning bus
 ## The 4 Step Assessment Process
 A systematic way a firm looks at tech:
 - **Scoping:** Establishing clear limits based on **strategic intent (where you're going)** and **firm capabilities (what you're good at).**
-- **Searching:** Detecting signals of progress (**how tech manager detect of a potentially transformative discovery to recognize some momentum beginning to form around a given tech**) includes **strong signals (like patent & literature citations and competitor's action)** and **weak signals (subtle hints in scientific networks 科学网络中的细微线索).**
+- **Searching:** 
+	- **Sensing Technological Emergence:** how tech manager detect a potentially transformative discovery to recognize some momentum beginning to form around a given tech.
+	- **Strong signals:** like patent & literature citations and competitor's action.**
+	- Weak signals (subtle hints in scientific networks 科学网络中的细微线索).
 - **Evaluating:** Ranking options using financial criteria and **Risk Profiling** to manage market, technology, and organizational risks.
 - **Committing:** Taking a strategic posture based on the competitive urgency and the risk-reward ratio.
 
