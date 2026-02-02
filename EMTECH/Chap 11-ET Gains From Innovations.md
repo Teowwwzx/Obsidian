@@ -1,7 +1,7 @@
 ## 1. The Three Hurdles 障碍 of Innovation
-- **Technology must be successful:** the wonder widget must work.
-- **Must create value:** something buyers are willing to pay more than the cost of production.
-- **Appropriating Gains:** must able to capture those rewards sometime innovator doesn't benefit from it.
+- **==Technology must be successful==:** the wonder widget must work.
+- ==**Must create value==:** something buyers are willing to pay more than the cost of production.
+- **==Appropriating Gains==:** must able to capture those rewards sometime innovator doesn't benefit from it.
 
 ## 2. The Four Mechanisms of Appropriability
 
@@ -14,9 +14,9 @@
 
 
 ## 3. The **Intellectual Property** Trap
-One of the biggest mistakes managers make is putting too much emphasis 强调 on patents.
-- **==Perceptual Distortion==:** Manager wrongly think a project isn't worth doing just because they can't get a patent.
-- **I==nventing Around==:** Competitors can often **legally invent around** a patent by producing a different version that doesn't infringe on the original idea.
+One of the biggest mistakes managers make is ==putting too much emphasis 强调 on patents.==
+- **==Perceptual Distortion 直觉失真==:** Manager wrongly think a ==project isn't worth doing== just because they ==can't get a patent.==
+- **==Inventing Around==:** Competitors can often ==**legally invent around**== a patent by producing a different version that doesn't infringe 侵犯 on the original idea.
 
 ---
 
@@ -33,4 +33,4 @@ A slide warns managers about two extremes when they are trying to decide which e
 Which goose will produce the golden egg is a reminder that managers must constantly evaluate which of their internal teams or projects is most likely to deliver the next breakthrough.
 
 ## Summary
-==**Guard the Golden Goose** to survive long-term==, a firm must ==protect its ability to innovate (the Goose)==. Managers must ==balance their focus==: a scope that is too ==narrow makes them the risk to being replaced== with new tech, while a ==broad scope causes a loss of focus.== The goal is to sustain ==**dynamic capabilities**== to keep ==producing **golden eggs (successful innovation)**==
+==**Guard the Golden Goose** to survive long-term==, a firm must ==protect its ability to innovate (the Goose)==. Managers must ==balance their focus==: ==**Narrow scope** makes them the risk to being replaced== with new tech, while a ==**Broad scope** causes a loss of focus.== The goal is to sustain ==**dynamic capabilities**== to keep ==producing **golden eggs (successful innovation)**==
