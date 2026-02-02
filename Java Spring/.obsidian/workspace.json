@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b8794edc7d1cb795",
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,7 +221,7 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d3ed2be4a9348bd2",
+  "active": "2fb861848f3a7115",
   "lastOpenFiles": [
     "gemini-scribe/Agent-Sessions/Hibernate GenerationType.AUTO Explained.md",
     "gemini-scribe/Agent-Sessions",
