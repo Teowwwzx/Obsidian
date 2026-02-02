@@ -40,7 +40,6 @@ A systematic way a firm looks at tech:
 - **Committing:**
 	- Strategic Commitment / 战略承诺
 		- Risk and Reward of the relationship.
-![[Pasted image 20260202134237.png]]
 
 ---
 
