@@ -99,15 +99,26 @@ public class OrderService {
 大家都可以下单，但如果那一秒价格变了，你的单子就会被拒（Reject），你需要重新下单。特点：快，但可能失败。
 
 - **查：** 我读出数据，发现 `version = 1`。
-    
 - **改：** 我想把库存 -1。
-    
 - **写：** 我告诉数据库：“把库存 -1，**前提是现在的 version 还是 1**”。
-    
     - 如果数据库发现 version 已经是 2 了（被别人改过了）：**更新失败，抛出异常。**
-        
     - 如果 version 还是 1：更新成功，把 version 变成 2。
 
+```
+public class Stock {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    private String name;
+    private Integer quantity;
+
+    // ✨ 魔法字段：JPA 会自动维护它
+    // 每次更新，version 会自动 +1
+    @Version
+    private Integer version; 
+}
+```
 ---
 
 # Visibility
