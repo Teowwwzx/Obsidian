@@ -66,9 +66,12 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 | **Exhaustive/inclusive process 全面整合** make sure the decision making is comprehensive without missing our any important info. | **Overconfidence in analysis 过度自信** that model is correct will lead the exactly same result but neglect 忽略 the reality incident.  |
 
 ### Imagination
-| Benefits                                                                             | Limitations                                                                                                         |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| Adaptive thinking which think out of the box                                         | Chaos with different ideas which miss focus                                                                         |
-| Hierarchy of imagination which imagination will crash the experiences in front of it | Losing touch with reality which imagination might be good but in reality either can't implement or no one buying it |
-| Future oriented which imagine the future of company and work backward                | Undervaluing the past might loss the past success due to the traditional approach and slwoing the p                 |
+| Benefits                                                                                        | Limitations                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Adaptive thinking 适应性思维** which think out of the box                                          | **Chaos 混乱** with different ideas which miss focus                                                                                                                     |
+| **Hierarchy of imagination 想象力等级制** which imagination will crash the experiences in front of it | **Losing touch with reality 脱离现实** which imagination might be good but in reality either can't implement or no one buying it                                           |
+| **Future oriented 面向未来** which imagine the future of company and work backward                  | **Undervaluing the past 轻视过去** might loss the past success due to the traditional approach and **slowing the process** 拖慢进度 without implement those brainstorming idea |
 
+### Disciplined Imagination
+- Leverage imagination to produce different approach, and use discipline to assess the approach is it feasible.
+- Build a period of idea generation using imagination and periods of disciplined idea evaluation
