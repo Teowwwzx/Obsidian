@@ -81,7 +81,7 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 ## As a summary, these are the areas covered:
 
 1. Explaining the Technology Assessment Process.
-	- Scoping to find out the capabilities and advantages of the company.
+	- Scoping to find out **strategic intent where company want to go and firm capabilities where company at currently**
 	- Searching to find out is the approach feasible in the market and how was the competitors situation.
 	- Evaluating the capabilities of company existing staff and fund reserve of the company.
 	- Committing the reward and risk of the relationship of the partners or employees.
