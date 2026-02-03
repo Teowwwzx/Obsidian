@@ -114,4 +114,4 @@ b. Examine the potential solutions for Television (TV) broadcasting companies t
 
 To remain competitive and overcome these pitfalls, TV broadcasting firms should implement the following four solutions:
 - ==**Widening Peripheral 周围的 Vision==:** Broadcasters must look ==beyond their TV rivals== and focus on the ==needs of audience== such as on-demand and mobile-first access ==rather than the product== like traditional scheduled programming. They should ==paint the big picture== of the market to ensure the potential digital audience is large enough to support the shift.
-- **Creating**
+- **Creating a Learning Culture:** The organization must move beyond individual knowledge to **collective learning.** This requires encouraging openness to share different viewpoints and rewarding **well-intentioned** failure when experimenting with new content formats. They 
