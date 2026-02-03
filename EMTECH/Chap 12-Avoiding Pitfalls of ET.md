@@ -77,4 +77,5 @@ Address three challenges:
 ### Surrogate Crisis
 The future is uncertain and experts are often wrong, firms use **Scenario Planning.**
 - Instead drawing single future, it create a vision of many possible futures
-- 
+- Scenario planning acts as a **simulated crisis**. It's better to imagine a crisis and prepare for it now than to wait for a real one when its too late to survive
+- It help overcome **strategic myopia (narrow-mindedness)** and **frame blindness.**
