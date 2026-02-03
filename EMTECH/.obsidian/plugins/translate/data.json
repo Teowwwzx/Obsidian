@@ -75,7 +75,9 @@
       "version": "1.0.0"
     },
     "deepl": {
-      "selected_languages": [],
+      "selected_languages": [
+        "en"
+      ],
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
@@ -148,7 +150,9 @@
       "version": "1.0.3"
     },
     "google_translate": {
-      "selected_languages": [],
+      "selected_languages": [
+        "en"
+      ],
       "api_key": "",
       "auto_translate": false,
       "auto_translate_interval": 500,
