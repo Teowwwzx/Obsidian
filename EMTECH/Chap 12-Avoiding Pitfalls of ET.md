@@ -61,4 +61,20 @@ Address three challenges:
 ## Constructing Scenarios
 - Issues want to understand
 - Identify major stake holders and actors
-- Identify and study the main forces that 
+- Identify and study the main forces that are shaping the future (STEEP)
+- Identify trends or predetermined elements
+- Identify the key uncertainties from the list of main forces
+
+### Trap to Avoid
+- Failing to get top management support early on
+- Lack of diverse inputs
+- Failure to stimulate new strategic options
+- Not tracking the scenarios progress & performance
+
+### A good Tool
+- Visualize the impact of technological discontinuities on the organizations existing models
+
+### Surrogate Crisis
+The future is uncertain and experts are often wrong, firms use **Scenario Planning.**
+- Instead drawing single future, it create a vision of many possible futures
+- 
