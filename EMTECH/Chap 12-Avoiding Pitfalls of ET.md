@@ -44,4 +44,7 @@
 	- Reward **well-intentioned** failure.
 	- Organization forget outdated approaches.
 - Staying flexible in strategic ways
+	- Higher flexibility lowers the cost of committing than a reverse direction.
+	- Balance within the options perspective, study your rivals intently and change direction boldly.
 - Providing organizational autonomy
+	- 
