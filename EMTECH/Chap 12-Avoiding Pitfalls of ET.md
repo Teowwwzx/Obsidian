@@ -104,6 +104,7 @@ Reference [1]: https://mashable.com/article/streaming-services-television-netfli
 
 a. Critically analyse the streaming service firms with the established Television (TV) broadcasting companies on the common traps or pitfalls in trying to get familiar with Emerging Technologies (ET).
 Established TV broadcasting companies often struggle to compete with streaming services because they fall into four common traps:
-- **Delayed Participation:** 
+- **==Delayed Participation==:** While streaming services move fast, traditional TV firms often ==watch and wait== due to the ==high uncertainty of digital infrastructure==. They often ==dismiss== the early ==streaming tech is immature== or ==not suitable== for their ==existing traditional audience==.
+- **Sticking with the Familiar:** TV broadcasters often rely on past successes in cable or satellite models to 
 
 b. Examine the potential solutions for Television (TV) broadcasting companies to overcome the above-mentioned traps or pitfalls as well as ensuring they remain competitive.
