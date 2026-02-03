@@ -12,20 +12,21 @@
 ---
 
 # 1. The 4 Common Traps for Established Firms
-- **Delayed Participation:**
+大公司就像一头大象，虽然强壮，但转身太慢
+- **==Delayed Participation== (慢半拍):**
 	- High uncertainty (rational to **watch and wait**).
 	- Suitable for narrow applications not yet required by existing customer.
 	- Earlier of ET often immature and not suitable for existing customer.
-- **Sticking with the Familiar:** 
+- ==**Sticking with the Familiar== (只玩会玩的):** 以前成功过的经验变成了现在的枷锁
 	- Sticking with the known is even more appealing 有吸引力的 because of the past success reinforces old ways of problem-solving.
 	- Lack of in-house capability to judge new tech.
 	- A proprietary mindset
-- **Reluctance 抗拒 to Fully Commit:** 
-	- **Cannibalizing 自相残杀** existing profitable products.
+- ==**Reluctance 抗拒 to Fully Commit== (不敢下重注):** 
+	- ==**Cannibalizing 自相残杀** existing profitable products.==
 	- Hard to justify investments in ET using traditional ROI criteria.
 	- Focused on meeting the needs of their current customers rather than looking to serve new markets
 	- Successful organizations are not naturally ambidextrous/flexible/highly skilled
-- **Lack of Persistence:**
+- **==Lack of Persistence (没耐心)==:** 只要一两个季度没见到回头钱，老板就想撤资 。
 	- Facing pressure for quarterly results, firms may lose patience.
 	- Missed forecasts during gestation of ET. 
 
