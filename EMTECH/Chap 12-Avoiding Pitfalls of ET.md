@@ -103,6 +103,6 @@ Reference [1]: https://mashable.com/article/streaming-services-television-netfli
 **_In-regards to the above:_**
 
 a. Critically analyse the streaming service firms with the established Television (TV) broadcasting companies on the common traps or pitfalls in trying to get familiar with Emerging Technologies (ET).
-The streaming service firms with the established (TV) broadcasting companies are fall into 4 common traps that make them hard to catch up the new demand in this fast pac
+The streaming service firms with the established (TV) broadcasting companies are fall into 4 common traps that make them failure to catch up the new demand in this fast pace world because of their sizes 
 
 b. Examine the potential solutions for Television (TV) broadcasting companies to overcome the above-mentioned traps or pitfalls as well as ensuring they remain competitive.
