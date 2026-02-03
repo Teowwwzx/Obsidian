@@ -106,6 +106,7 @@ a. Critically analyse the streaming service firms with the established Televisio
 Established TV broadcasting companies often struggle to compete with streaming services because they fall into four common traps:
 - **==Delayed Participation==:** While streaming services move fast, traditional TV firms often ==watch and wait== due to the ==high uncertainty of digital infrastructure==. They often ==dismiss== the early ==streaming tech is immature== or ==not suitable== for their ==existing traditional audience==.
 - **==Sticking with the Familiar==:** TV broadcasters often ==rely on past successes== in cable or satellite models to guide their decision-making. This leads them to search for solutions only within their current technical skills with a ==propriety mind-set== that prevents them for seeing the value of open-platform streaming.
-- **Reluctance to Fully Commit:** A major hurdle is the fear of cannibalizing their own profitable cable ad revenue. Because streaming investments are difficult to calculate the ROI, broadcasters often make timid/afraid choice rather than 
+- **==Reluctance/unwillingness 抗拒 to Fully Commit==:** A major hurdle is the fear of ==cannibalizing/take part of 吞噬 their own profitable cable ad revenue==. Because streaming investments are ==difficult to calculate the ROI==, broadcasters often make ==timid/afraid choice rather than bold moves==. They fail to be ==ambidextrous 怀二心的== to have the ability to maintain the old business while exploring new.
+- **Lack of Persistence:** Faced the pressure of quar
 
 b. Examine the potential solutions for Television (TV) broadcasting companies to overcome the above-mentioned traps or pitfalls as well as ensuring they remain competitive.
