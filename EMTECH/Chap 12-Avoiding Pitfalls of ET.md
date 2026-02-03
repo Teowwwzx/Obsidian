@@ -77,3 +77,32 @@ The future is uncertain and experts are often wrong, firms use **Scenario Planni
 - Instead drawing single future, it create a vision of many possible futures
 - Scenario planning acts as a **simulated crisis**. It's better to imagine a crisis and prepare for it now than to wait for a real one when its too late to survive
 - It help overcome ==**strategic myopia (战略近视)== (narrow-mindedness)** and **frame blindness.**
+
+
+---
+
+**CT060-3-3-Emergent Technology**
+
+**Chapter 12: Avoiding Pitfalls of ET**
+
+_Students can conduct online/offline research (without reference list/citations) in-order to assist in answering the following questions._
+
+**Question 1**
+
+In today’s era, there are more and more people utilizing their television sets to consume entertainment and media related content from online streaming services such as Hulu, Netflix, Disney Plus, Amazon Prime Video and many more. In accordance with a research conducted, it can be seen that consumers of these streaming services are spending at least 19% of their time accessing and viewing streaming content.
+
+![[Pasted image 20260203173429.png]]
+IMAGE: NIELSEN
+
+Among the popular streaming services that are currently available, Netflix is one of the streaming services that is currently dominating compared to others. The subscription-based streaming service provider holds 31% of the all the content in which U.S consumers are streaming on their Television. The second in the list with 21% is the free streaming platform, YouTube. Amazon Prime Video, Hulu and other streaming service provides rounds up the top four with a combination of 28% [1].
+
+Grab Food, Food Panda and other similar applications that is available has already disrupted the traditional food delivery business, likewise, instant messaging applications like WhatsApp and WeChat has already disrupts the telecommunication industry. The above discussion reflecting towards “streaming services” has given a potential negative signal and impact towards the Television (TV) channels service providers / broadcasting services.
+
+Reference [1]: https://mashable.com/article/streaming-services-television-netflix-nielsen-report
+
+**_In-regards to the above:_**
+
+a. Critically analyse the streaming service firms with the established Television (TV) broadcasting companies on the common traps or pitfalls in trying to get familiar with Emerging Technologies (ET).
+The streaming service firms with the established (TV) broadcasting companies are fall into 4 common traps that make them hard to catch up the new demand in this fast pac
+
+b. Examine the potential solutions for Television (TV) broadcasting companies to overcome the above-mentioned traps or pitfalls as well as ensuring they remain competitive.
