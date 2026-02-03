@@ -47,4 +47,10 @@
 	- Higher flexibility lowers the cost of committing than a reverse direction.
 	- Balance within the options perspective, study your rivals intently and change direction boldly.
 - Providing organizational autonomy
-	- 
+	- Taking ET business into separate unit or spin-off. This separate unit is less held back by the big-firm mindset and risk avoidance of the company
+
+---
+
+# Scenario Planning
+Address three challenges:
+1. Uncertainty: D
