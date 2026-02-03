@@ -26,9 +26,13 @@
 	- Focused on meeting the needs of their current customers rather than looking to serve new markets
 	- Successful organizations are not naturally ambidextrous/flexible/highly skilled
 - **Lack of Persistence:**
-	- 
-	- Facing pressure for quick quarterly results, firms may lose patience. They might withdraw from a new tech too early after a few missed forecasts or negative financial results 
+	- Facing pressure for quarterly results, firms may lose patience.
+	- Missed forecasts during gestation of ET. 
 
 ---
 
 # 2. The 4 Strategic Solutions
+- **Widening Peripheral Vision:** Looking beyond direct competitors to sense emerging trends. It requires focusing on customer needs rather than just current products.
+- Creating a learning culture
+- Staying flexible in strategic ways
+- Providing organizational autonomy
