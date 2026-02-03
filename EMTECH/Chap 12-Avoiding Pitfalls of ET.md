@@ -103,10 +103,14 @@ Reference [1]: https://mashable.com/article/streaming-services-television-netfli
 **_In-regards to the above:_**
 
 a. Critically analyse the streaming service firms with the established Television (TV) broadcasting companies on the common traps or pitfalls in trying to get familiar with Emerging Technologies (ET).
+
 Established TV broadcasting companies often struggle to compete with streaming services because they fall into four common traps:
 - **==Delayed Participation==:** While streaming services move fast, traditional TV firms often ==watch and wait== due to the ==high uncertainty of digital infrastructure==. They often ==dismiss== the early ==streaming tech is immature== or ==not suitable== for their ==existing traditional audience==.
 - **==Sticking with the Familiar==:** TV broadcasters often ==rely on past successes== in cable or satellite models to guide their decision-making. This leads them to search for solutions only within their current technical skills with a ==propriety mind-set== that prevents them for seeing the value of open-platform streaming.
 - **==Reluctance/unwillingness 抗拒 to Fully Commit==:** A major hurdle is the fear of ==cannibalizing/take part of 吞噬 their own profitable cable ad revenue==. Because streaming investments are ==difficult to calculate the ROI==, broadcasters often make ==timid/afraid choice rather than bold moves==. They fail to be ==ambidextrous 怀二心的== to have the ability to maintain the old business while exploring new.
-- **Lack of Persistence:** Faced the pressure of quar
+- **==Lack of Persistence 坚持==:** Faced the ==pressure of quarterly financial results==, TV ==incumbents 现任者/holder== often ==lose patience with the gestation period== of new digital platform. If a new streaming app ==doesn't profit immediately==, they may withdraw too early just like the Knight-Ridder did with early electronic news.
 
 b. Examine the potential solutions for Television (TV) broadcasting companies to overcome the above-mentioned traps or pitfalls as well as ensuring they remain competitive.
+
+To remain competitive and overcome these pitfalls, TV broadcasting firms should implement the following four solutions:
+- 
