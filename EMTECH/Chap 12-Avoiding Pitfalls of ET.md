@@ -33,6 +33,10 @@
 
 # 2. The 4 Strategic Solutions
 - **Widening Peripheral Vision:** Looking beyond direct competitors to sense emerging trends. It requires focusing on customer needs rather than just current products.
-- Creating a learning culture
+	- Paint the big picture
+		- Issues: potential market could be **big enough** to support development activities.
+	- Use multiple methods
+		- All market estimation methods are flawed or limited in some 
+- Creating a learning culture:
 - Staying flexible in strategic ways
 - Providing organizational autonomy
