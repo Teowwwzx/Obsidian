@@ -38,7 +38,10 @@
 	- Use multiple methods
 		- All market estimation methods are flawed 有缺陷的 or limited in some important respect
 	- Focus on need not products
-		- Prospective customers can't envision radically new products based on discontinuous innovations.
-- Creating a learning culture:
+		- Prospective 预期 customers can't envision 设想 radically new products based on discontinuous innovations.
+- Creating a learning culture: 
+	- Encourage openness to diverse viewpoints
+	- Reward **well-intentioned** failure.
+	- Organization forget outdated approaches.
 - Staying flexible in strategic ways
 - Providing organizational autonomy
