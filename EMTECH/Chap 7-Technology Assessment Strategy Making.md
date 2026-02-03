@@ -82,7 +82,7 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 1. Explaining the Technology Assessment Process.
 	- **Scoping** to find out **==Strategic Intent where company want to go== and ==Firm Capabilities where company at currently==**
 	- **Searching** to find out **==Strong Signals like patent & competitor's action==** and **==Weak Signals like confirmation within knowledge networks or competitive intelligence==**
-	- Evaluating the **==tech using Ranking and Risk Profiling depend on the company reserve fund==**
+	- **Evaluating** the **==tech using Ranking and Risk Profiling depend on the company reserve fund==**
 	- **Committing** to the **==Reward and Risk with the situatable approach based on the time constraint/competitive imperative and return and risk==**
 
 2. Explaining Risk Profiling.
