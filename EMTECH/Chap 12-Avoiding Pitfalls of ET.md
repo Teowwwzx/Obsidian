@@ -53,4 +53,12 @@
 
 # Scenario Planning
 Address three challenges:
-1. Uncertainty: D
+1. **Uncertainty:** Distinguish any form of risks that can be quantified using objective probabilities.
+2. **Complexity:** From social to technological to economics - explore how they combine, intermingle 交织 and dynamically influence.
+3. **Paradigm Shift:** Scenarios aim to challenge the prevailing mind set.
+
+
+## Constructing Scenarios
+- Issues want to understand
+- Identify major stake holders and actors
+- Identify and study the main forces that 
