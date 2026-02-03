@@ -52,7 +52,7 @@
 
 ---
 
-# Scenario Planning
+# ==Scenario Planning==
 Address three challenges:
 1. **Uncertainty:** Distinguish any form of risks that can be quantified using objective probabilities.
 2. **Complexity:** From social to technological to economics - explore how they combine, intermingle 交织 and dynamically influence.
@@ -62,21 +62,18 @@ Address three challenges:
 ## Constructing Scenarios
 - Issues want to understand
 - Identify major stake holders and actors
-- Identify and study the main forces that are shaping the future (STEEP)
+- Identify and study the main forces that are shaping the future (==STEEP==)
+	- **==Social (社会)**==
+	- ==**Technological (技术)**==
+	- ==**Economic (经济)**==
+	- ==**Environmental (环境)**==
+	- ==**Political (政治)==**
 - Identify trends or predetermined elements
 - Identify the key uncertainties from the list of main forces
 
-### Trap to Avoid
-- Failing to get top management support early on
-- Lack of diverse inputs
-- Failure to stimulate new strategic options
-- Not tracking the scenarios progress & performance
 
-### A good Tool
-- Visualize the impact of technological discontinuities on the organizations existing models
-
-### Surrogate Crisis
+## ==Surrogate Crisis== 模拟危机
 The future is uncertain and experts are often wrong, firms use **Scenario Planning.**
 - Instead drawing single future, it create a vision of many possible futures
 - Scenario planning acts as a **simulated crisis**. It's better to imagine a crisis and prepare for it now than to wait for a real one when its too late to survive
-- It help overcome **strategic myopia (narrow-mindedness)** and **frame blindness.**
+- It help overcome ==**strategic myopia (战略近视)== (narrow-mindedness)** and **frame blindness.**
