@@ -60,7 +60,7 @@ Address three challenges:
 
 
 ## Constructing Scenarios
-- Issues want to understand
+- Identify ==issues want to understand==
 - Identify major stake holders and actors
 - Identify and study the main forces that are shaping the future (==STEEP==)
 	- **==Social (社会)**==
