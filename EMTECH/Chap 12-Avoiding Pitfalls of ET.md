@@ -69,14 +69,16 @@ Address three challenges:
 	- ==**Environmental (环境)**==
 	- ==**Political (政治)==**
 - Identify trends or predetermined elements
+- Select the ==two most important key uncertainties==
 - Identify the key uncertainties from the list of main forces
+- ==Assess== the revised scenarios of ==how the key stakeholders might behave==
 
 
 ## ==Surrogate Crisis== 模拟危机
 The future is uncertain and experts are often wrong, firms use **Scenario Planning.**
 - Instead drawing single future, it create a vision of many possible futures
 - Scenario planning acts as a **simulated crisis**. It's better to imagine a crisis and prepare for it now than to wait for a real one when its too late to survive
-- It help overcome ==**strategic myopia (战略近视)== (narrow-mindedness)** and **frame blindness.**
+- It help overcome ==**strategic myopia (战略近视)== (narrow-mindedness)** and **==frame blindness (框架盲区)==.**
 
 
 ---
