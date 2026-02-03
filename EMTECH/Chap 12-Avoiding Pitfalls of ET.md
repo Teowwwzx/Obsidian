@@ -36,7 +36,9 @@
 	- Paint the big picture
 		- Issues: potential market could be **big enough** to support development activities.
 	- Use multiple methods
-		- All market estimation methods are flawed or limited in some 
+		- All market estimation methods are flawed 有缺陷的 or limited in some important respect
+	- Focus on need not products
+		- Prospective customers can't envision radically new products based on discontinuous innovations.
 - Creating a learning culture:
 - Staying flexible in strategic ways
 - Providing organizational autonomy
