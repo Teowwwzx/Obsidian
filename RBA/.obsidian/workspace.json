@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topic 3-Investment Model and Robo Advisor.md",
+                "file": "Bayesian statistics 贝叶斯统计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 3-Investment Model and Robo Advisor"
+              "title": "Bayesian statistics 贝叶斯统计"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "759d190f7e3de195",
   "lastOpenFiles": [
+    "Topic 3-Investment Model and Robo Advisor.md",
     "Topic 2.md",
     "Topic 1-Introduction to Investment Management.md",
     "Untitled.canvas",
@@ -196,7 +197,6 @@
     "Pasted image 20260131181534.png",
     "Single-Index Model.md",
     "Regression Model.md",
-    "Topic 3-Investment Model and Robo Advisor.md",
     "images/Pasted image 20260131170337.png",
     "images/Pasted image 20260131175352.png",
     "images/Pasted image 20260129191039.png",
