@@ -76,3 +76,5 @@ Appropriating gains from innovations is the process by which a firm ensures it c
 
 Firms face three hurdles that must be cleared sequentially to achieve success with an emerging technology.
 - Technical success: The first challenge is ensuring the technology actually functions as intended. This is the basic requirement that the wonder widget must work reliably. Failure here means the innovation never moves past the lab stage.
+- Value creation: Even if the technology success, it must create value to the customer willing to pay for it. The value created must more then the total cost of production. If a firm create a brilliant product that is too expensive for the market, it fails this hurdle.
+- Appropriating gains: Often the most difficult hurdle. Sometime no guarantee the value created will go to innovator without a strategy patent, secrecy, complementary assets / control of assets and lead time, a firm 
