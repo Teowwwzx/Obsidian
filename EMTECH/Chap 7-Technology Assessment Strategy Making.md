@@ -117,7 +117,7 @@ _Students can conduct online/offline research (without reference list/citations)
 
 The strategy by George S. Day highlights that success in the digital age is not just about inventing new things, but about the **discipline and imagination** required to choose the right once. Technology assessment is the systematic process a firm uses to make these choices. There are four steps to this process: **Scoping, Searching, Evaluating and Committing.**
 
-**Scoping (Strategic Intent and Firm Capabilities)**: The assessment begin with scoping which firm to find out what the firm is looking for. This shaped by the firm's strategic intent which is a sense of direction. Technology cannot be considered in the abstract which must be address a specific challenge or goal.
+**Scoping (Strategic Intent and Firm Capabilities)**: The assessment begin with scoping which firm to find out what the firm is looking for. This shaped by the firm's strategic intent which is a sense of direction. Technology cannot be considered in the abstract which must be address a specific challenge or goal. Next, firm must find out its own technical capabilities to determine if the technological needed 
 **Searching (Strong Signal - Patent & Weak Signal - Network**)
 **Evaluating (Ranking and Risk Profiling - Risks of Market, Technology and Organizational)**
 **Committing (Reward Risk and Return)**
