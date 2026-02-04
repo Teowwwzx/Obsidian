@@ -115,4 +115,9 @@ _Students can conduct online/offline research (without reference list/citations)
 
 1.     Based on the statement above, **_examine_** and **_elaborate_** further in-regards to the technology assessment process. (450 – 600 words)
 
+Scoping
+Searching
+Evallua
+Commitment
+
 2.     **_Evaluate_** and **_explain_** the sources of **_technology risks_** and **_organizational risks_**, within the risk profiling method, that companies can use to analyse and review their technology & organizational risks (200 – 300 words).
