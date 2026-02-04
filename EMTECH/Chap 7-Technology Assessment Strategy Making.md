@@ -117,9 +117,14 @@ _Students can conduct online/offline research (without reference list/citations)
 
 The strategy by George S. Day highlights that success in the digital age is not just about inventing new things, but about the **discipline and imagination** required to choose the right once. Technology assessment is the systematic process a firm uses to make these choices. There are four steps to this process: **Scoping, Searching, Evaluating and Committing.**
 
-**Scoping (Strategic Intent and Firm Capabilities)**: The assessment begin with scoping which firm to find out what the firm is looking for. This shaped by the firm's strategic intent which is a sense of direction. Technology cannot be considered in the abstract which must be address a specific challenge or goal. Next, firm must find out its own technical capabilities to determine if the technological needed 
-**Searching (Strong Signal - Patent & Weak Signal - Network**)
-**Evaluating (Ranking and Risk Profiling - Risks of Market, Technology and Organizational)**
+**Scoping (Strategic Intent and Firm Capabilities)**: The assessment begin with scoping which firm to find out what the firm is looking for. This shaped by the firm's strategic intent which is a sense of direction. Technology cannot be considered in the abstract which must be address a specific challenge or goal. Next, firm must find out its own technical capabilities to determine if the technological needed can be handle by its own employees or if it needs to acquire through partnership.
+
+**Searching (Strong Signal - Patent & Weak Signal - Network**): Once the scope is set, the firm looks for signals of progress. This involves detecting strong signal like patent and literature citations or competitor actions which reveal the commercial investment on this ET. IT also involve tracking weak signal which are more subtle indication 微妙的指标 from knowledge networks suggesting a scientific discovery has commercialize potential. Effective searching requires a system for Knowledge and Information Capture to ensure that information gathered early by the firm.
+
+
+**Evaluating (Ranking and Risk Profiling - Risks of Market, Technology and Organizational)**: In the eva
+
+
 **Committing (Reward Risk and Return)**
 
 2.     **_Evaluate_** and **_explain_** the sources of **_technology risks_** and **_organizational risks_**, within the risk profiling method, that companies can use to analyse and review their technology & organizational risks (200 – 300 words).
