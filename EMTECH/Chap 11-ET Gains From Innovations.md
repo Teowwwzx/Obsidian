@@ -54,22 +54,25 @@ Critically discuss the mechanisms to create a broader strategy for appropriating
 
 Appropriating gains from innovations is the process by which a firm ensures it captures the financial returns of its new technology rather than losing them to rival/imitators 模仿者. While many managers overemphasize intellectual property (IP) law, a broader involves four mechanisms:
 
-Patent and Legal Protection: Patent provide a legal monopoly for 20 years on inventions for the products.
+**Patent and Legal Protection:** Patent provide a legal monopoly for 20 years on inventions for the products.
 - **Benefits:** Highly effective in specific industry like pharmaceuticals where prevent easily duplication.
 - **Limitation:** High legal costs like a Bell Telephone having over 600 lawsuits to protect its dominance. Furthermore, competitor can invent around by creating a similar result through different technical which do not infringe/break on the legal/
 
-Secrecy: Involves hiding the innovations like how to make, from the public and rivals
+**Secrecy:** Involves hiding the innovations like how to make, from the public and rivals
 - **Benefits:** Effective protecting processes rather than physical products as seen in famous food and beverage use trade secret to protect their own unique formula and ingredients for decade.
 - **Limitation:** Difficult to keep secret for a physical product because competitor can buy the product and perform **reverse-engineering** to figure out how it was made. Also if a company is too secret, it might stop the innovation within its own team which impact future growth.
 
 
-Complementary Support and Control of Asset: Owning the infrastructure needed to commercialize a product such as distribution channels, service capabilities and suppliers relationships.
+**Complementary Support / Control of Asset:** Owning the infrastructure needed to commercialize a product such as distribution channels, service capabilities and suppliers relationships.
 - **Benefits:** A sustainable advantages that doesn't rely on law. IBM dominated the market not through patens but through its amazing sales force and service support. A modern example like Apple which have many rivals might have better hardware but Apple building it own software and hardware ecosystem with optimized performance such as Apple Store, Apple Watch, and etc
 - **Limitation:** Building these assets requires massive, long-term investment can be slow to develop.
 
-Lead Time (First mover advantages): Lead time refers to the advantages gained by moving fastest to the market.
+**Lead Time (First mover advantages):** Lead time refers to the advantages gained by moving fastest to the market.
 - **Benefits:** Allowing firm to establish a strong reputation and create high switching cost for customers when the rivals appear.
 - **Limitations:** Rushing to the market can sacrifice the product quality and reliability or lack of customer support.
 
 
 2.     Evaluate and provide detailed elaborations on the hurdles of innovations that firms are facing.
+
+Firms face three hurdles that must be cleared sequentially to achieve success with an emerging technology.
+- Technical success: The first challenge is ensuring the technology actually functions as intended. This is the basic requirement that the wonder widget must work reliably. Failure here means the innovation never moves past the lab stage.
