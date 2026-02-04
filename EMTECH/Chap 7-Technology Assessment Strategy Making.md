@@ -132,4 +132,13 @@ The strategy by George S. Day highlights that success in the digital age is not 
 Within the Risk Profiling method, companies use a three methods to analyze risk before committing to a new technology.
 
 Technology Risk:  Focusses on whether the wonder widget can actually be built and standardized.
-- Technocal Feasibility
+- Technical feasibility: Can the technology perform as promised?
+- Uncertain Standards: is there a dominant design or is the industry still fighting over technical standard?
+- Manufacturability: Can the product be produced at scale of efficiently?
+- Physical Danger and Product Liability: Are there safety risk associated with the new technology?
+
+Organizational Risk: Examines whether the company itself is capable of supporting the new technology.
+- Capabilities of company: Does the firm have the firm have the necessary skills and personnel?
+- Cost and Burn Rate: Does the firm have the financial capital to sustain development before profits arrive?
+- Speed of Organizational Change: Can the company's culture and processes adapt fast enough to keep up with the technology?
+- De
