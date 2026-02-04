@@ -141,4 +141,4 @@ Organizational Risk: Examines whether the company itself is capable of supportin
 - Capabilities of company: Does the firm have the firm have the necessary skills and personnel?
 - Cost and Burn Rate: Does the firm have the financial capital to sustain development before profits arrive?
 - Speed of Organizational Change: Can the company's culture and processes adapt fast enough to keep up with the technology?
-- De
+- Dependence on Partners: How much of the success relies on external entities or new organizational structures?
