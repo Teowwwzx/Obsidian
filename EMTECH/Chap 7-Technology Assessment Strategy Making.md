@@ -131,4 +131,5 @@ The strategy by George S. Day highlights that success in the digital age is not 
 
 Within the Risk Profiling method, companies use a three methods to analyze risk before committing to a new technology.
 
-Technology Risk: 
+Technology Risk:  Focusses on whether the wonder widget can actually be built and standardized.
+- Technocal Feasibility
