@@ -128,3 +128,7 @@ The strategy by George S. Day highlights that success in the digital age is not 
 **Committing (Reward Risk and Return)**: Finally, the firm makes a strategic commitment. This decision depends on the competitive of market and the risk-reward relationship of the technology and its market. In an environment of rapid changes, mechanical planning is insufficient which managers must be prepared to adjust the strategies quickly and create new ones. Ultimately, this process is an art that combines discipline like rational analysis with imagination like creative imagination. 
 
 2.     **_Evaluate_** and **_explain_** the sources of **_technology risks_** and **_organizational risks_**, within the risk profiling method, that companies can use to analyse and review their technology & organizational risks (200 – 300 words).
+
+Within the Risk Profiling method, companies use a three methods to analyze risk before committing to a new technology.
+
+Technology Risk: 
