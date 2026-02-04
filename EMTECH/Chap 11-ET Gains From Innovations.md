@@ -52,7 +52,16 @@ Research Questions
 
 Critically discuss the mechanisms to create a broader strategy for appropriating gains from innovations. Your elaborations can include the respective benefits and limitations. (500 – 600 words).
 
-Patent
+Appropriating gains from innovations is the process by which a firm ensures it captures the financial returns of its new technology rather than losing them to rival/imitators 模仿者. While many managers overemphasize intellectual property (IP) law, a broader involves four mechanisms:
+
+Patent and Legal Protection: Patent provide a legal monopoly for 20 years on inventions for the products.
+- **Benefits:** Highly effective in specific industry like pharmacueticals, th
+
+Secrecy
+
+Complementary Assets
+
+Lead Time
 
 
 2.     Evaluate and provide detailed elaborations on the hurdles of innovations that firms are facing.
