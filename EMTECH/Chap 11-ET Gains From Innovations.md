@@ -58,12 +58,14 @@ Patent and Legal Protection: Patent provide a legal monopoly for 20 years on inv
 - **Benefits:** Highly effective in specific industry like pharmaceuticals where prevent easily duplication.
 - **Limitation:** High legal costs like a Bell Telephone having over 600 lawsuits to protect its dominance. Furthermore, competitor can invent around by creating a similar result through different technical which do not infringe/break on the legal/
 
-Secrecy involves hiding the innovations like how to make, from the public and rivals
+Secrecy: Involves hiding the innovations like how to make, from the public and rivals
 - **Benefits:** Effective protecting processes rather than physical products as seen in famous food and beverage use trade secret to protect their own unique formula and ingredients for decade.
 - **Limitation:** Difficult to keep secret for a physical product because competitor can buy the product and perform **reverse-engineering** to figure out how it was made. Also if a company is too secret, it might stop the innovation within its own team which impact future growth.
 
 
-Complementary Assets
+Complementary Support and Control of Asset: Owning the infrastructure needed to commercialize a product such as distribution channels, service capabilities and suppliers relationships.
+- **Benefits:** A sustainable advantages that doesn't rely on law. IBM dominated the market not through patens but through its amazing sales force and service support.
+- **Limitation:** Building these assets requires massive, long-term investmen
 
 Lead Time
 
