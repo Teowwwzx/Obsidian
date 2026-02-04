@@ -34,3 +34,22 @@ Which goose will produce the golden egg is a reminder that managers must constan
 
 ## Summary
 ==**Guard the Golden Goose** to survive long-term==, a firm must ==protect its ability to innovate (the Goose)==. Managers must ==balance their focus==: ==**Narrow scope** makes them the risk to being replaced== with new tech, while a ==**Broad scope** causes a loss of focus.== The goal is to sustain ==**dynamic capabilities**== to keep ==producing **golden eggs (successful innovation)**==
+
+
+---
+
+**CT060-3-3-Emergent Technology**
+
+**Chapter 11: ET Gains from Innovation**
+
+_Students can conduct online/offline research (without reference list/citations) in-order to assist in answering the following questions._
+
+**SECTION A**
+
+Research Questions
+
+1.     _“Innovations which could be intellectual properties, commonly being protected by intellectual property protections.”_
+
+Critically discuss the mechanisms to create a broader strategy for appropriating gains from innovations. Your elaborations can include the respective benefits and limitations. (500 – 600 words).
+
+2.     Evaluate and provide detailed elaborations on the hurdles of innovations that firms are facing.

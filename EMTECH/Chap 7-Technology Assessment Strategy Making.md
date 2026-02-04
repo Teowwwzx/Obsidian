@@ -101,3 +101,18 @@ Due to future is uncertain, have to use **Disciplined Imagination** the **[[Twin
 
 5. Explain the twin pillars of Strategy
 	- The twin pillars of strategy are Discipline and Imagination. Discipline is the **==consistent application of rules to select alternatives that maximize value**==, helping managers be ==**more judicious**== and **==achieve greater consensus.==** Imagination involves a deliberate effort to **==generate diverse, distinct options through synthesis, vision, and creativity.==** The most successful approach is **==Disciplined Imagination==**, which capitalizes on the strengths of both pillars ==**while avoiding their weaknesses**.== In this process, imagination is used to generate creative options and ==**think backward from a desired future**==, while discipline **==grounds the process in reality by evaluating==** and implementing those options consistently.
+
+
+---
+
+**CT060-3-3-Emergent Technology**
+
+**Chapter 7: ET Technology Assessment**
+
+_Students can conduct online/offline research (without reference list/citations) in-order to assist in answering the following questions._
+
+**“Competitive advantage often goes to the companies that are most adept at choosing among the vast numbers of technological options and not necessarily to the companies that creates them” – (George S. Day, 2019)**
+
+1.     Based on the statement above, **_examine_** and **_elaborate_** further in-regards to the technology assessment process. (450 – 600 words)
+
+2.     **_Evaluate_** and **_explain_** the sources of **_technology risks_** and **_organizational risks_**, within the risk profiling method, that companies can use to analyse and review their technology & organizational risks (200 – 300 words).
