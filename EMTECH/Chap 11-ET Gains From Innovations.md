@@ -64,8 +64,8 @@ Secrecy: Involves hiding the innovations like how to make, from the public and r
 
 
 Complementary Support and Control of Asset: Owning the infrastructure needed to commercialize a product such as distribution channels, service capabilities and suppliers relationships.
-- **Benefits:** A sustainable advantages that doesn't rely on law. IBM dominated the market not through patens but through its amazing sales force and service support.
-- **Limitation:** Building these assets requires massive, long-term investmen
+- **Benefits:** A sustainable advantages that doesn't rely on law. IBM dominated the market not through patens but through its amazing sales force and service support. A modern example like Apple which have many rivals might have better hardware but Apple building it own software and hardware ecosystem with optimized performance such as Apple Store, Apple Watch, and etc
+- **Limitation:** Building these assets requires massive, long-term investment can be slow to develop.
 
 Lead Time
 
