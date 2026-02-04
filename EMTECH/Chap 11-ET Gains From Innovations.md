@@ -67,7 +67,9 @@ Complementary Support and Control of Asset: Owning the infrastructure needed to 
 - **Benefits:** A sustainable advantages that doesn't rely on law. IBM dominated the market not through patens but through its amazing sales force and service support. A modern example like Apple which have many rivals might have better hardware but Apple building it own software and hardware ecosystem with optimized performance such as Apple Store, Apple Watch, and etc
 - **Limitation:** Building these assets requires massive, long-term investment can be slow to develop.
 
-Lead Time
+Lead Time (First mover advantages): Lead time refers to the advantages gained by moving fastest to the market.
+- **Benefits:** Allowing firm to establish a strong reputation and create high switching cost for customers when the rivals appear.
+- **Limitations:** Rushing to the market can sacrifice the product quality and reliability or lack of customer support.
 
 
 2.     Evaluate and provide detailed elaborations on the hurdles of innovations that firms are facing.
