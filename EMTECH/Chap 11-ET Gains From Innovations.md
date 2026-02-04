@@ -60,7 +60,8 @@ Patent and Legal Protection: Patent provide a legal monopoly for 20 years on inv
 
 Secrecy involves hiding the innovations like how to make, from the public and rivals
 - **Benefits:** Effective protecting processes rather than physical products as seen in famous food and beverage use trade secret to protect their own unique formula and ingredients for decade.
-- **Limitation:** Difficult to keep secret for a physical product because competitor can buy the product and perform **reverse-engineering** to figure out how it was made. Also if a company is too secret, it might stop 
+- **Limitation:** Difficult to keep secret for a physical product because competitor can buy the product and perform **reverse-engineering** to figure out how it was made. Also if a company is too secret, it might stop the innovation within its own team which impact future growth.
+
 
 Complementary Assets
 
