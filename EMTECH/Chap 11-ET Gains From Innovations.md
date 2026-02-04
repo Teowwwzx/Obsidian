@@ -55,9 +55,11 @@ Critically discuss the mechanisms to create a broader strategy for appropriating
 Appropriating gains from innovations is the process by which a firm ensures it captures the financial returns of its new technology rather than losing them to rival/imitators 模仿者. While many managers overemphasize intellectual property (IP) law, a broader involves four mechanisms:
 
 Patent and Legal Protection: Patent provide a legal monopoly for 20 years on inventions for the products.
-- **Benefits:** Highly effective in specific industry like pharmacueticals, th
+- **Benefits:** Highly effective in specific industry like pharmaceuticals where prevent easily duplication.
+- **Limitation:** High legal costs like a Bell Telephone having over 600 lawsuits to protect its dominance. Furthermore, competitor can invent around by creating a similar result through different technical which do not infringe/break on the legal/
 
-Secrecy
+Secrecy involves hiding the innovations like how to make, from the public and rivals
+- **Benefits:**
 
 Complementary Assets
 
