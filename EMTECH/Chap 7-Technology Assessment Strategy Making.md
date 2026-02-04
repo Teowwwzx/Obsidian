@@ -122,9 +122,9 @@ The strategy by George S. Day highlights that success in the digital age is not 
 **Searching (Strong Signal - Patent & Weak Signal - Network**): Once the scope is set, the firm looks for signals of progress. This involves detecting strong signal like patent and literature citations or competitor actions which reveal the commercial investment on this ET. IT also involve tracking weak signal which are more subtle indication 微妙的指标 from knowledge networks suggesting a scientific discovery has commercialize potential. Effective searching requires a system for Knowledge and Information Capture to ensure that information gathered early by the firm.
 
 
-**Evaluating (Ranking and Risk Profiling - Risks of Market, Technology and Organizational)**: In the eva
+**Evaluating (Ranking and Risk Profiling - Risks of Market, Technology and Organizational)**: In the evaluation phase, manager must rank the lists of technologies based on financial, competitive and organizational criteria. This is where firm use risk profiling to map technological opportunities against potential threats. A draft plan is created to reveal outstanding questions that must be answered to reduce the uncertainty.
 
 
-**Committing (Reward Risk and Return)**
+**Committing (Reward Risk and Return)**: Finally, the firm makes a strategic commitment. This decision depends on the competitive of market and the risk-reward relationship of the technology and its market. In an environment of rapid changes, mechanical planning is insufficient which managers must be prepared to adjust the strategies quickly and create new ones. Ultimately, this process is an art that combines discipline like rational analysis with imagination like creative innovation. 
 
 2.     **_Evaluate_** and **_explain_** the sources of **_technology risks_** and **_organizational risks_**, within the risk profiling method, that companies can use to analyse and review their technology & organizational risks (200 – 300 words).
