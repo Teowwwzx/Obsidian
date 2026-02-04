@@ -52,4 +52,7 @@ Research Questions
 
 Critically discuss the mechanisms to create a broader strategy for appropriating gains from innovations. Your elaborations can include the respective benefits and limitations. (500 – 600 words).
 
+Patent
+
+
 2.     Evaluate and provide detailed elaborations on the hurdles of innovations that firms are facing.
